@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <style>
+    .axis { stroke: #333; stroke-width: 2; fill: none; }
+    .grid { stroke: #ddd; stroke-width: 1; stroke-dasharray: 5,5; }
+    .curve { stroke: #007acc; stroke-width: 3; fill: none; }
+    .label { font-family: sans-serif; font-size: 14px; fill: #333; }
+    .title { font-family: sans-serif; font-size: 18px; font-weight: bold; fill: #111; text-anchor: middle; }
+    .peak-label { font-family: sans-serif; font-size: 12px; fill: #555; text-anchor: middle; }
+  </style>
+  
+  <!-- Title -->
+  <text x="300" y="40" class="title">吴有训实验光谱强度分布图 (Compton Scattering)</text>
+  
+  <!-- Axes -->
+  <!-- Y-axis -->
+  <line x1="80" y1="80" x2="80" y2="320" class="axis" />
+  <!-- X-axis -->
+  <line x1="80" y1="320" x2="550" y2="320" class="axis" />
+  
+  <!-- Axis Labels -->
+  <text x="40" y="200" class="label" transform="rotate(-90 40 200)" text-anchor="middle">强度 (Intensity)</text>
+  <text x="315" y="360" class="label" text-anchor="middle">波长 λ (Wavelength)</text>
+  
+  <!-- Spectrum Curve -->
+  <!-- Peak 1 at x=200, Peak 2 at x=350 -->
+  <path d="M 100 320 
+           C 140 320, 170 180, 200 180
+           C 230 180, 250 300, 270 300
+           C 290 300, 320 100, 350 100
+           C 380 100, 410 320, 460 320" 
+        class="curve" />
+        
+  <!-- Peak 1 Indicator -->
+  <line x1="200" y1="180" x2="200" y2="325" stroke="#ff5555" stroke-width="1" stroke-dasharray="3,3" />
+  <text x="200" y="165" class="peak-label">原波长 λ₀</text>
+  
+  <!-- Peak 2 Indicator -->
+  <line x1="350" y1="100" x2="350" y2="325" stroke="#ff5555" stroke-width="1" stroke-dasharray="3,3" />
+  <text x="350" y="85" class="peak-label">变长波长 λ'</text>
+  
+  <!-- Annotation -->
+  <text x="300" y="230" class="label" fill="#666" font-size="12" text-anchor="middle">吴有训验证康普顿效应的实验数据示意</text>
+  
+</svg>

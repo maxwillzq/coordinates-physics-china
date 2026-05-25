@@ -1,0 +1,23 @@
+# LaTeX
+*.aux
+*.log
+*.toc
+*.bbl
+*.blg
+*.out
+*.lof
+*.lot
+*.synctex.gz
+*.pdf
+
+# Node
+node_modules/
+.next/
+.env*.local
+
+# OS
+.DS_Store
+
+# Agents and Backups
+.agents/
+website-old/
