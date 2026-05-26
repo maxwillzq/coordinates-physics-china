@@ -16,6 +16,8 @@
 - [杠杆原理](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/lever_principle.md)
 - [“端”的定义](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/duan_atom.md)
 - [宇与久](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/space_and_time.md)
+- [“圆”的定义](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/circle_definition.md)
+- [逻辑定义：故](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/causality_mozi.md)
 
 ---
 *最后更新：2026-05-25*

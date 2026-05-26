@@ -23,3 +23,8 @@
 - 从 `sources/mozi.md` 中提取了概念 `“端”的定义` 并创建了页面 `wiki/concepts/duan_atom.md`。
 - 从 `sources/mozi.md` 中提取了概念 `宇与久` 并创建了页面 `wiki/concepts/space_and_time.md`。
 - 更新了索引 `wiki/index.md`。
+
+## [2026-05-25] ingest | 提取《墨子》几何与逻辑概念
+- 从 `sources/mozi.md` 中提取了概念 `“圆”的定义` 并创建了页面 `wiki/concepts/circle_definition.md`。
+- 从 `sources/mozi.md` 中提取了概念 `逻辑定义：故` 并创建了页面 `wiki/concepts/causality_mozi.md`。
+- 更新了索引 `wiki/index.md`。
