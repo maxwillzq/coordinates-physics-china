@@ -51,3 +51,9 @@
 - 从 `sources/needham_physics_report.md` 中提取了实体 `朱载堉` 并创建了页面 `wiki/entities/zhu_zaiyu.md`。
 - 从 `sources/needham_physics_report.md` 中提取了概念 `十二等程律（平均律）` 并创建了页面 `wiki/concepts/twelve_equal_temperament.md`。
 - 更新了索引 `wiki/index.md`。
+
+## [2026-05-25] ingest | 摄取《考工记》源文档
+- 从 Wikisource 下载并提取了 `sources/kao_gong_ji.md`。
+- 转换为简体中文并保存。
+- 创建了总结页面 `wiki/summaries/kao_gong_ji.md`。
+- 更新了索引 `wiki/index.md`。
