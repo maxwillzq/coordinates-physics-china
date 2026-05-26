@@ -62,7 +62,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/maxwillzq/coordinates-physics-china/tree/main/website/',
           remarkPlugins: [math],
           rehypePlugins: [katex],
         },
@@ -100,7 +100,7 @@ const config = {
             label: '本书正文',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/maxwillzq/coordinates-physics-china',
             label: 'GitHub',
             position: 'right',
           },
