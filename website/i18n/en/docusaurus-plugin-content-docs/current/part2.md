@@ -119,7 +119,7 @@ In the middle of the 19th century, stubborn literati occupying the mainstream of
 
 This attitude reflected the arrogance and prejudice of the traditional scholar-bureaucrat class, as well as fear of the unknown. They degraded scientific knowledge like physics to pure "crafts" (technology), denying its theoretical value and worldview significance.
 
-##### 2. Compromise of the洋务派 (Westernizers): "Chinese Learning for Substance, Western Learning for Application"
+##### 2. Compromise of the Westernizers (Yangwu Pai): "Chinese Learning for Substance, Western Learning for Application"
 Faced with internal and external troubles, Westernizer officials (such as Zeng Guofan, Li Hongzhang, Zuo Zongtang, etc.) realized that they must learn Western technology. To reduce the resistance of the stubborn faction, they proposed the famous slogan "Chinese learning for substance, Western learning for application."
 
 Under this framework, they believed that China's Confucianism and ethics were the root of the country (substance), while Western science and technology and physics were only means to enrich the country and strengthen the army (application). This dualistic view, although playing a role in protecting science dissemination at that time, also restricted Chinese people's full acceptance of scientific spirit and scientific methods. Intellectuals often only paid attention to the application of physics in manufacturing firearms and ships, while ignoring its rigorous logical system and scientific attitude of experimental verification.
