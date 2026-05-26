@@ -13,4 +13,4 @@
 
 ## 🎨 视觉风格 (Design Style)
 
-网站采用极简、现代且具备高级感的文档展示效果，对标 [Hello Algo](https://www.hello-algo.com/)。支持中英双语切换与暗色模式。
+网站采用极简、现代且具备高级感的文档展示效果，灵感来自于 [Hello Algo](https://www.hello-algo.com/)。支持中英双语切换与暗色模式。
