@@ -21,3 +21,6 @@ node_modules/
 # Agents and Backups
 .agents/
 website-old/
+
+# obsidian vault
+.obsidian/
