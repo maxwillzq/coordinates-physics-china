@@ -14,6 +14,8 @@
 - [小孔成像](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/camera_obscura.md)
 - [力的定义](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/force_definition.md)
 - [杠杆原理](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/lever_principle.md)
+- [“端”的定义](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/duan_atom.md)
+- [宇与久](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/space_and_time.md)
 
 ---
 *最后更新：2026-05-25*
