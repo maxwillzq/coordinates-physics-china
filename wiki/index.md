@@ -10,6 +10,7 @@
 
 ### 实体 (Entities)
 - [墨子](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/mozi.md)
+- [沈括](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/shen_kuo.md)
 
 ### 概念 (Concepts)
 - [小孔成像](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/camera_obscura.md)
@@ -19,6 +20,7 @@
 - [宇与久](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/space_and_time.md)
 - [“圆”的定义](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/circle_definition.md)
 - [逻辑定义：故](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/causality_mozi.md)
+- [沈括的光学研究与“格”](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/shen_kuo_optics.md)
 
 ---
 *最后更新：2026-05-25*

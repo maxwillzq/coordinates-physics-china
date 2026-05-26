@@ -33,3 +33,10 @@
 - 保存了源文件 `sources/needham_physics_report.md`。
 - 创建了总结页面 `wiki/summaries/needham_physics_report.md`。
 - 更新了索引 `wiki/index.md`。
+
+## [2026-05-25] ingest | 摄取《梦溪笔谈》源文档
+- 使用 `curl` 下载了 `sources/mengxi_bitan.txt`。
+- 转换为 Markdown 格式并翻译为简体中文，保存为 `sources/mengxi_bitan.md`。
+- 提取了实体 `沈括` 并创建了页面 `wiki/entities/shen_kuo.md`。
+- 提取了概念 `沈括的光学研究与“格”` 并创建了页面 `wiki/concepts/shen_kuo_optics.md`。
+- 更新了索引 `wiki/index.md`。
