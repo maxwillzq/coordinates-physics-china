@@ -68,3 +68,8 @@
 - 创建了实体页面 `wiki/entities/zhang_heng.md`。
 - 创建了概念页面 `wiki/concepts/seismograph_inertia.md`。
 - 更新了索引 `wiki/index.md`。
+
+## [2026-05-25] ingest | 提取《天工开物》应用物理概念
+- 从 `sources/tiangong_kaiwu.md` 中提取了概念 `古代深井钻探技术` 并创建了页面 `wiki/concepts/deep_well_drilling.md`。
+- 从 `sources/tiangong_kaiwu.md` 中提取了概念 `古代水利机械与流体力学应用` 并创建了页面 `wiki/concepts/water_machinery.md`。
+- 更新了索引 `wiki/index.md`。

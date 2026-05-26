@@ -30,6 +30,8 @@
 - [有机宇宙论与连续介质范式](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/organic_cosmology.md)
 - [十二等程律（平均律）](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/twelve_equal_temperament.md)
 - [候风地动仪与惯性物理](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/seismograph_inertia.md)
+- [古代深井钻探技术](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/deep_well_drilling.md)
+- [古代水利机械与流体力学应用](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/water_machinery.md)
 
 ---
 *最后更新：2026-05-25*
