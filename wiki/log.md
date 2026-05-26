@@ -79,3 +79,8 @@
 - 创建了实体页面 `wiki/entities/li_zhengdao.md`。
 - 创建了实体页面 `wiki/entities/wu_jianxiong.md`。
 - 更新了索引 `wiki/index.md`。
+
+## [2026-05-25] ingest | 提取现代物理学核心概念
+- 创建了概念页面 `wiki/concepts/parity_violation.md`。
+- 创建了概念页面 `wiki/concepts/yang_mills_theory.md`。
+- 更新了索引 `wiki/index.md`。

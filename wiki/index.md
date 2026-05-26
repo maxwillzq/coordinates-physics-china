@@ -35,6 +35,8 @@
 - [候风地动仪与惯性物理](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/seismograph_inertia.md)
 - [古代深井钻探技术](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/deep_well_drilling.md)
 - [古代水利机械与流体力学应用](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/water_machinery.md)
+- [宇称不守恒](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/parity_violation.md)
+- [杨-米尔斯场论](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/yang_mills_theory.md)
 
 ---
 *最后更新：2026-05-25*
