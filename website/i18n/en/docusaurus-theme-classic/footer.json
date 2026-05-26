@@ -1,0 +1,14 @@
+{
+  "link.title.文档": {
+    "message": "文档",
+    "description": "The title of the footer links column with title=文档 in the footer"
+  },
+  "link.item.label.第一编": {
+    "message": "第一编",
+    "description": "The label of footer link with label=第一编 linking to /docs/part1"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 《坐标：世界物理版图中的中国》",
+    "description": "The footer copyright"
+  }
+}

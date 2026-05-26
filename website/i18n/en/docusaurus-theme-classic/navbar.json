@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "Coordinates: China in the World Map of Physics",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "My Site Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.本书正文": {
+    "message": "Read Book",
+    "description": "Navbar item with label 本书正文"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
