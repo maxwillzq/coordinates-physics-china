@@ -14,6 +14,7 @@
 - [墨子](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/mozi.md)
 - [沈括](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/shen_kuo.md)
 - [朱载堉](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/zhu_zaiyu.md)
+- [张衡](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/zhang_heng.md)
 
 ### 概念 (Concepts)
 - [小孔成像](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/camera_obscura.md)
@@ -28,6 +29,7 @@
 - [透光镜的应力物理](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/magic_mirror.md)
 - [有机宇宙论与连续介质范式](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/organic_cosmology.md)
 - [十二等程律（平均律）](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/twelve_equal_temperament.md)
+- [候风地动仪与惯性物理](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/seismograph_inertia.md)
 
 ---
 *最后更新：2026-05-25*

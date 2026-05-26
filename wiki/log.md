@@ -63,3 +63,8 @@
 - 转换为 Markdown 格式并翻译为简体中文，保存为 `sources/tiangong_kaiwu.md`。
 - 创建了总结页面 `wiki/summaries/tiangong_kaiwu.md`。
 - 更新了索引 `wiki/index.md`。
+
+## [2026-05-25] ingest | 提取张衡及地动仪概念
+- 创建了实体页面 `wiki/entities/zhang_heng.md`。
+- 创建了概念页面 `wiki/concepts/seismograph_inertia.md`。
+- 更新了索引 `wiki/index.md`。
