@@ -73,3 +73,9 @@
 - 从 `sources/tiangong_kaiwu.md` 中提取了概念 `古代深井钻探技术` 并创建了页面 `wiki/concepts/deep_well_drilling.md`。
 - 从 `sources/tiangong_kaiwu.md` 中提取了概念 `古代水利机械与流体力学应用` 并创建了页面 `wiki/concepts/water_machinery.md`。
 - 更新了索引 `wiki/index.md`。
+
+## [2026-05-25] ingest | 提取现代华裔物理学家实体
+- 创建了实体页面 `wiki/entities/yang_zhenning.md`。
+- 创建了实体页面 `wiki/entities/li_zhengdao.md`。
+- 创建了实体页面 `wiki/entities/wu_jianxiong.md`。
+- 更新了索引 `wiki/index.md`。

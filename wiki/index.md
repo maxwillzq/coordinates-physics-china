@@ -15,6 +15,9 @@
 - [沈括](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/shen_kuo.md)
 - [朱载堉](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/zhu_zaiyu.md)
 - [张衡](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/zhang_heng.md)
+- [杨振宁](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/yang_zhenning.md)
+- [李政道](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/li_zhengdao.md)
+- [吴健雄](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/wu_jianxiong.md)
 
 ### 概念 (Concepts)
 - [小孔成像](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/camera_obscura.md)
