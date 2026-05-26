@@ -28,3 +28,8 @@
 - 从 `sources/mozi.md` 中提取了概念 `“圆”的定义` 并创建了页面 `wiki/concepts/circle_definition.md`。
 - 从 `sources/mozi.md` 中提取了概念 `逻辑定义：故` 并创建了页面 `wiki/concepts/causality_mozi.md`。
 - 更新了索引 `wiki/index.md`。
+
+## [2026-05-25] ingest | 摄取李约瑟物理学解析报告
+- 保存了源文件 `sources/needham_physics_report.md`。
+- 创建了总结页面 `wiki/summaries/needham_physics_report.md`。
+- 更新了索引 `wiki/index.md`。
