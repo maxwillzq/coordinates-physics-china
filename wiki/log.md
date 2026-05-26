@@ -13,3 +13,8 @@
 - 提取了实体 `墨子` 并创建了页面 `wiki/entities/mozi.md`。
 - 提取了概念 `小孔成像` 并创建了页面 `wiki/concepts/camera_obscura.md`。
 - 更新了索引 `wiki/index.md`。
+
+## [2026-05-25] ingest | 提取《墨子》力学概念
+- 从 `sources/mozi.md` 中提取了概念 `力的定义` 并创建了页面 `wiki/concepts/force_definition.md`。
+- 从 `sources/mozi.md` 中提取了概念 `杠杆原理` 并创建了页面 `wiki/concepts/lever_principle.md`。
+- 更新了索引 `wiki/index.md`。
