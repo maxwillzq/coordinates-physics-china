@@ -21,6 +21,8 @@
 - [“圆”的定义](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/circle_definition.md)
 - [逻辑定义：故](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/causality_mozi.md)
 - [沈括的光学研究与“格”](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/shen_kuo_optics.md)
+- [地磁偏角的发现](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/magnetic_declination.md)
+- [透光镜的应力物理](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/magic_mirror.md)
 
 ---
 *最后更新：2026-05-25*

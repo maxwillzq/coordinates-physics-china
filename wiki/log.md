@@ -40,3 +40,8 @@
 - 提取了实体 `沈括` 并创建了页面 `wiki/entities/shen_kuo.md`。
 - 提取了概念 `沈括的光学研究与“格”` 并创建了页面 `wiki/concepts/shen_kuo_optics.md`。
 - 更新了索引 `wiki/index.md`。
+
+## [2026-05-25] ingest | 提取《梦溪笔谈》磁学与应力光学概念
+- 从 `sources/mengxi_bitan.md` 中提取了概念 `地磁偏角的发现` 并创建了页面 `wiki/concepts/magnetic_declination.md`。
+- 从 `sources/mengxi_bitan.md` 中提取了概念 `透光镜的应力物理` 并创建了页面 `wiki/concepts/magic_mirror.md`。
+- 更新了索引 `wiki/index.md`。
