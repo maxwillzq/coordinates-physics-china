@@ -57,3 +57,9 @@
 - 转换为简体中文并保存。
 - 创建了总结页面 `wiki/summaries/kao_gong_ji.md`。
 - 更新了索引 `wiki/index.md`。
+
+## [2026-05-25] ingest | 摄取《天工开物》源文档
+- 从 Gutenberg 下载了 `sources/tiangong_kaiwu.txt`。
+- 转换为 Markdown 格式并翻译为简体中文，保存为 `sources/tiangong_kaiwu.md`。
+- 创建了总结页面 `wiki/summaries/tiangong_kaiwu.md`。
+- 更新了索引 `wiki/index.md`。
