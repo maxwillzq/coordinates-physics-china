@@ -11,6 +11,7 @@
 ### 实体 (Entities)
 - [墨子](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/mozi.md)
 - [沈括](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/shen_kuo.md)
+- [朱载堉](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/zhu_zaiyu.md)
 
 ### 概念 (Concepts)
 - [小孔成像](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/camera_obscura.md)
@@ -23,6 +24,8 @@
 - [沈括的光学研究与“格”](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/shen_kuo_optics.md)
 - [地磁偏角的发现](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/magnetic_declination.md)
 - [透光镜的应力物理](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/magic_mirror.md)
+- [有机宇宙论与连续介质范式](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/organic_cosmology.md)
+- [十二等程律（平均律）](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/twelve_equal_temperament.md)
 
 ---
 *最后更新：2026-05-25*

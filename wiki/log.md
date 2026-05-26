@@ -45,3 +45,9 @@
 - 从 `sources/mengxi_bitan.md` 中提取了概念 `地磁偏角的发现` 并创建了页面 `wiki/concepts/magnetic_declination.md`。
 - 从 `sources/mengxi_bitan.md` 中提取了概念 `透光镜的应力物理` 并创建了页面 `wiki/concepts/magic_mirror.md`。
 - 更新了索引 `wiki/index.md`。
+
+## [2026-05-25] ingest | 提取李约瑟报告中的范式与声学概念
+- 从 `sources/needham_physics_report.md` 中提取了概念 `有机宇宙论与连续介质范式` 并创建了页面 `wiki/concepts/organic_cosmology.md`。
+- 从 `sources/needham_physics_report.md` 中提取了实体 `朱载堉` 并创建了页面 `wiki/entities/zhu_zaiyu.md`。
+- 从 `sources/needham_physics_report.md` 中提取了概念 `十二等程律（平均律）` 并创建了页面 `wiki/concepts/twelve_equal_temperament.md`。
+- 更新了索引 `wiki/index.md`。
