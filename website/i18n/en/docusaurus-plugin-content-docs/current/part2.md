@@ -73,7 +73,7 @@ The furnaces and power systems of early Chinese machinery bureaus relied heavily
 > 
 > $$ \eta_C = 1 - \frac{310}{550} \approx 43.6\% $$
 > 
-> The actual operating efficiency of their power systems could reach $ 12\% \sim 15\% $—roughly 3 to 5 times that of the Qing vessels. This meant that for the same coal capacity, Western warships possessed several times the cruising range and speed. During the Sino-French War and the First Sino-Japanese War, Qing vessels were repeatedly disadvantaged in tactical maneuvers due to 'insufficient power, immense coal consumption, and sluggish speed.' What played the decisive role behind these outcomes was none other than this cold, unyielding thermodynamic efficiency formula.
+> The actual operating efficiency of their power systems could reach $ 12\% \sim 15\% $ —roughly 3 to 5 times that of the Qing vessels. This meant that for the same coal capacity, Western warships possessed several times the cruising range and speed. During the Sino-French War and the First Sino-Japanese War, Qing vessels were repeatedly disadvantaged in tactical maneuvers due to 'insufficient power, immense coal consumption, and sluggish speed.' What played the decisive role behind these outcomes was none other than this cold, unyielding thermodynamic efficiency formula.
 
 #### Section 3: Maxwell's Equations and Field Theory
 

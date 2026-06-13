@@ -16,7 +16,7 @@ $$ \nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \epsilon_0 \frac{\partial
 - $ \mathbf{B} $ 为磁感应强度。
 - $ \rho $ 为自由电荷电荷密度。
 - $ \mathbf{J} $ 为传导电流密度。
-- $ \epsilon_0 $ 为真空介电常数，$ \mu_0 $ 为真空磁导率。
+- $ \epsilon_0 $ 为真空介电常数， $ \mu_0 $  为真空磁导率。
 - 方程(4)中的 $ \mu_0 \epsilon_0 \frac{\partial \mathbf{E}}{\partial t} $ 项即麦克斯韦引入的**位移电流 (displacement current)**，这是电磁场论建立的物理点睛之笔。
 
 ## 物理学解析与范式转移

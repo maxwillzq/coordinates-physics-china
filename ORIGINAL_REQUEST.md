@@ -249,3 +249,60 @@ Ensure the Docusaurus site compiles cleanly without broken links, broken markdow
 ### Build Verification
 - [ ] Running `npm run build` inside `website/` finishes with success and outputs localized static HTML pages.
 
+## Follow-up — 2026-06-13T10:32:41-07:00
+
+Refine and restructure the remaining chapters (Parts 3, 4, 5, and 6, both Chinese and English editions) of the *Coordinates* book following the project's style guide. This involves researching historical contexts, updating the wiki database, rewriting the Docusaurus files under symmetrical comparisons, and validating page builds while strictly avoiding literature hallucinations.
+
+Working directory: /Users/johnqiangzhang/Documents/projects/coordinates-physics-china
+Integrity mode: development
+
+## Requirements
+
+### R1. Wiki Database Ingestion (Wiki-First)
+For each chapter (Parts 3, 4, 5, and 6), research and create/update Wiki pages under `/wiki/entities/` and `/wiki/concepts/` for relevant historical figures and physics paradigms. Update `/wiki/index.md` and log the actions in `/wiki/log.md`.
+
+### R2. Restructure and Rewrite Chinese Chapters (Part 3, 4, 5, 6)
+Rewrite `website/docs/part3.md`, `part4.md`, `part5.md`, and `part6.md` following the symmetrical close-combat structure (comparing West vs. China) and text guidelines defined in `/wiki/drafts/style_template.md`. Deconstruct translations and historical physics paradigms using modern physical terms and introduce LaTeX-formatted math alert boxes.
+
+### R3. Synchronize and Refine English Translations
+Fully translate and synchronize all rewritten content to the corresponding English editions (`website/i18n/en/.../part3.md`, `part4.md`, `part5.md`, `part6.md`), keeping paragraph flow, LaTeX equations, alert boxes, and image references completely aligned.
+
+### R4. Compilation and Build Verification
+Ensure the Docusaurus site compiles cleanly without broken links, broken markdown image paths, or KaTeX rendering syntax errors.
+
+### R5. Strict Reference Verification (Anti-Hallucination)
+Every citation added to the "References/参考文献" section of any chapter must undergo strict verification. Only fully real, verifiable academic papers, books, or official reports with correct titles, authors, publishers, and publication years may be listed. Fake or unconfirmed references are strictly prohibited.
+
+## Acceptance Criteria
+
+### Wiki Quality
+- [ ] New entity and concept files for Parts 3-6 exist under `/wiki/entities/` and `/wiki/concepts/`.
+- [ ] All new files are linked in `/wiki/index.md` and logged in `/wiki/log.md`.
+
+### Document Structure & Style (Chinese & English)
+- [ ] All chapters (Parts 3-6) use `pathname:///img/partX_illustration.png` as their header illustration.
+- [ ] Chapters have symmetrical comparative sections matching the historical scientific developments of their respective eras.
+- [ ] Relevant physics concepts and calculations are mapped into math-infused alert boxes (`[!IMPORTANT]`, `[!NOTE]`, or `[!TIP]`) with LaTeX formulas.
+- [ ] All inline LaTeX formulas are padded with outer spaces (e.g. ` $...$ `) to ensure rendering.
+
+### Reference Integrity
+- [ ] Every reference listed in all chapters is verified as authentic and correct. No fake titles or synthesized metadata exist.
+
+### Build Verification
+- [ ] Running `npm run build` inside `website/` finishes with success and outputs localized static HTML pages for all chapters.
+
+## Follow-up — 2026-06-13T18:04:57Z
+
+Add matplotlib-based scientific plots (PNGs) in Parts 3 and 5.
+
+Guidelines:
+1. Generate the following plots:
+   - **compton_scattering_fit.py**: For Part 3, plotting X-ray wavelength shift $\Delta \lambda$ vs scattering angle $\theta$ for different targets showing target-independence.
+   - **superconductor_transition.py**: For Part 5, plotting resistivity vs temperature curves comparing conventional BCS superconductors (McMillan limit ~30-40K) and YBCO (~93K, liquid nitrogen limit 77K).
+   - **fractional_quantum_hall.py**: For Part 5, plotting Hall resistance $R_{xy}$ plateaus ($\nu = 1, 2/3, 1/3$) and longitudinal resistance $R_{xx} \to 0$ vs magnetic field $B$.
+
+2. Maintainability Constraint:
+   - Create the python scripts under a new directory: `/Users/johnqiangzhang/Documents/projects/coordinates-physics-china/scripts/plots/` (e.g., `compton_scattering_fit.py`, `superconductor_transition.py`, `fractional_quantum_hall.py`).
+   - The scripts, when run, should save their output PNG images directly into `/Users/johnqiangzhang/Documents/projects/coordinates-physics-china/website/static/img/`.
+   - Embed these PNG images in the respective Chinese and English chapters (`part3.md`, `part5.md`) using Docusaurus path resolution: `![caption](pathname:///img/filename.png)`.
+

@@ -1,6 +1,9 @@
 # 维基日志 (Wiki Log)
 
-操作 LLM 维基的时间按顺序记录。
+## [2026-06-13] ingest | 规划 Part 6 维基实体词条与核心物理概念
+- **规划核心人物实体**：确定拟新建的潘建伟 (`wiki/entities/pan_jianwei.md`)、薛其坤 (`wiki/entities/xue_qikun.md`)、王贻芳 (`wiki/entities/wang_yifang.md`)、安东·塞林格 (`wiki/entities/anton_zeilinger.md`) 四位核心人物词条。
+- **规划核心物理概念**：确定拟新建的希格斯玻色子 (`wiki/concepts/higgs_boson.md`)、引力波 (`wiki/concepts/gravitational_wave.md`)、AI for Science (`wiki/concepts/ai_for_science.md`)、FAST (`wiki/concepts/fast.md`)、LHAASO (`wiki/concepts/lhaaso.md`)、量子通信 (`wiki/concepts/quantum_communication.md`)、量子计算 (`wiki/concepts/quantum_computing.md`)、量子反常霍尔效应 (`wiki/concepts/qahe.md`)、中微子大科学 (`wiki/concepts/juno.md`)、海峡两岸大科学协作 (`wiki/concepts/cross_strait_collaboration.md`) 等十个词条。
+- **规划索引与日志更新**：制定 `wiki/index.md` 和 `wiki/log.md` 的增补及同步方案。
 
 ## [2026-05-25] init | 维基初始化
 - 创建了 `AGENTS.md`。
@@ -133,7 +136,7 @@
 - **双语对齐**：完全重写并同步了中英文版文档。
 
 ## [2026-06-12] fix | 修复行内 LaTeX 公式在中文与标点紧邻时的渲染问题
-- **公式外侧空格补全**：在 `website/docs` 和 `website/i18n` 目录下的中英文档中，将所有行内数学公式（如 `$\sqrt[12]{2}$`、`$\rho=0$`、`$2\theta$`）与中文汉字或标点符号（如 `（`、`）`、`，`、`。`）紧邻处进行外侧空格补全，确保 MDX-Remark 编译器能完美识别公式分界符，彻底解决网站上公式直接以源码形式暴露而不渲染的问题。
+- **公式外侧空格补全**：在 `website/docs` 和 `website/i18n` 目录下的中英文档中，将所有行内数学公式（如 ` $\sqrt[12]{2}$ `、` $\rho=0$ `、` $2\theta$ `）与中文汉字或标点符号（如 `（`、`）`、`，`、`。`）紧邻处进行外侧空格补全，确保 MDX-Remark 编译器能完美识别公式分界符，彻底解决网站上公式直接以源码形式暴露而不渲染的问题。
 
 ## [2026-06-12] ingest | 摄取陈方正先生《继承与叛逆》主要观点与内容
 - **原始文献保存**：将陈方正先生《继承与叛逆：现代科学为何出现于西方》的主要内容与核心观点保存至原始来源目录 `sources/chen_fangzheng_inheritance_and_rebellion.md`。
@@ -156,3 +159,19 @@
 
 ## [2026-06-13] cleanup | 清理已完成的草稿计划文件
 - **计划文件删除**：删除了已完全执行完毕的 `wiki/drafts/part2_refinement_plan.md` 计划文件，保持草稿目录的整洁。其沉淀规范已归档至 `wiki/drafts/style_template.md`。
+
+## [2026-06-13] ingest | 摄取 Part 3 维基实体词条与核心物理概念
+- **新建核心人物实体**：复制并引入了胡刚复 (`wiki/entities/hu_gangfu.md`)、饶毓泰 (`wiki/entities/rao_yutai.md`)、叶企孙 (`wiki/entities/ye_qisun.md`)、吴有训 (`wiki/entities/wu_youxun.md`)、赵忠尧 (`wiki/entities/zhao_zhongyao.md`) 五位核心人物词条，整理其留学背景、学术成就和教育贡献。
+- **新建核心物理概念**：复制并引入了康普顿散射与吴有训验证 (`wiki/concepts/compton_scattering_woo.md`)、正负电子对产生与湮灭 (`wiki/concepts/annihilation_radiation_chao.md`)、宇称不守恒的钴-60实验 (`wiki/concepts/parity_violation_wu.md`) 三个核心概念词条。
+- **更新索引与链接**：更新了 `wiki/index.md` 索引页面，建立双向链接。
+
+## [2026-06-13] ingest | 摄取 Part 4 维基实体词条与核心物理概念
+- **新建核心人物实体**：创建了钱三强 (`wiki/entities/qian_sanqiang.md`)、何泽慧 (`wiki/entities/he_zehui.md`)、于敏 (`wiki/entities/yu_min.md`)、周光召 (`wiki/entities/zhou_guangzhao.md`)、钱学森 (`wiki/entities/qian_xuesen.md`)、邓稼先 (`wiki/entities/deng_jiaxian.md`)、赵九章 (`wiki/entities/zhao_jiuzhang.md`)、郭永怀 (`wiki/entities/guo_yonghuai.md`) 八位核心人物词条，整理其国防贡献、教育学术成就。
+- **新建核心物理概念**：创建了重核裂变的三分裂与四分裂 (`wiki/concepts/uranium_fission_tripartition.md`)、于敏构型 (`wiki/concepts/yumin_configuration.md`)、九次计算的热力学证明 (`wiki/concepts/nine_calculations_correction.md`)、大科学范式 (`wiki/concepts/big_science_paradigm.md`)、航天力学、轨道动力学与真空热平衡 (`wiki/concepts/sputnik_orbital_mechanics.md`) 五个核心概念词条，并补充了相应的数学物理公式。
+- **更新索引与链接**：全面更新了 `wiki/index.md` 主索引，将新增的实体和概念建立双向绝对路径链接。
+
+## [2026-06-13] ingest | 摄取 Part 5 维基实体词条与核心物理概念
+- **新建核心人物实体**：创建了赵忠贤 (`wiki/entities/zhao_zhongxian.md`)、丁肇中 (`wiki/entities/ding_zhao_zhong.md`)、高锟 (`wiki/entities/gao_kun.md`)、崔琦 (`wiki/entities/cui_qi.md`)、黄昆 (`wiki/entities/huang_kun.md`) 五位核心人物词条，整理其科研成果与学术地位。
+- **新建核心物理概念**：创建了北京正负电子对撞机与北京谱仪 (`wiki/concepts/bepc_bes.md`)、高温超导与麦克米兰极限 (`wiki/concepts/high_tc_superconductivity.md`)、分数量子霍尔效应与 Laughlin 波函数 (`wiki/concepts/fractional_quantum_hall_effect.md`)、光纤传输损耗与瑞利散射极限 (`wiki/concepts/optical_fiber_transmission.md`)、中美联合招考物理研究生项目 (`wiki/concepts/cuspea.md`)、台湾同步辐射研究中心与台湾光源 (`wiki/concepts/nsrrc.md`)、粒子物理标准模型精密检验 (`wiki/concepts/standard_model_precision_test.md`) 七个核心概念词条，并补充了相应的数学物理公式与背景。
+- **更新索引与链接**：全面更新了 `wiki/index.md` 主索引，将新增的实体和概念建立双向绝对路径链接。
+

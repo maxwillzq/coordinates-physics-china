@@ -11,124 +11,252 @@ sidebar_position: 6
 ![Yin-Yang Taiji and AI Neural Network Constellation Illustration](pathname:///img/part6_illustration.png)
 
 ## World Axis
-Since 2010, physics has entered a new stage characterized by precision big science and interdisciplinary intersection. The discovery of the God particle (Higgs boson) in 2012 completed the last puzzle of the Standard Model; the detection of gravitational waves in 2015 opened a new era of multi-messenger astronomy. Meanwhile, quantum information science moved from theory to application, becoming a new high ground for major power competition. More revolutionary is that artificial intelligence (AI for Science), as a new research paradigm, is profoundly reshaping physics research methods such as materials design and complex system simulation.
+Since 2010, physics has entered a new era characterized by precision big science facilities (Megaprojects) and cross-disciplinary artificial intelligence paradigms (AI for Science). On the microscopic scale, the European Organization for Nuclear Research (CERN) discovered the Higgs boson, declaring the final completion of the physical puzzle of the Standard Model of particle physics. On the macroscopic scale, the Laser Interferometer Gravitational-Wave Observatory (LIGO) directly detected gravitational waves for the first time, opening a new era of multi-messenger astronomy. Meanwhile, the scaling of superconducting qubits driven by Google and IBM, combined with the experimental work of quantum information foundations laid by Anton Zeilinger and others, accelerated the arrival of the era of quantum computational advantage (Quantum Supremacy). More revolutionary is that artificial intelligence algorithms, represented by AlphaFold and symbolic regression (AI Feynman), have deeply intervened in the discovery of physical laws and the simulation of multi-body system evolution, declaring the dawn of the fifth paradigm of scientific discovery.
 
 ## China Point
-Entering the new era, Chinese physics has realized a historic leap from "comprehensive catch-up" to "running side by side" and even "leading" in some fields. China increased its investment in basic research, and a batch of world-class "heavy weapons of the country" were put into use successively: the Five-hundred-meter Aperture Spherical radio Telescope (FAST) achieved brilliant results in pulsar search and other fields; the Jiangmen Underground Neutrino Observatory (JUNO) and the Large High Altitude Air Shower Observatory (LHAASO) are at the international frontier. In the field of quantum information, Chinese scientists represented by the team of Pan Jianwei achieved world-leading results in quantum communication and quantum computing (such as "Jiuzhang" and "Zu Chongzhi"). Meanwhile, Chinese scientists also actively embraced the AI paradigm, promoting the deep integration of physics and artificial intelligence.
+At this historical intersection, Chinese physics has completed a historic transformation from "comprehensive catch-up" to "partial running side-by-side" and even "local leadership" in key strategic frontiers (such as quantum communication and quantum computational advantage). China has built a cluster of world-class "national heavy weapons" big science facilities, represented by the Five-hundred-meter Aperture Spherical radio Telescope (FAST), the Large High Altitude Air Shower Observatory (LHAASO), and the Daya Bay and Jiangmen Underground Neutrino Observatories (JUNO). In the field of quantum information, Pan Jianwei's team constructed the first space-scale global quantum communication network via the "Micius" satellite and achieved quantum computational advantage on both optical ("Jiuzhang") and superconducting ("Zuchongzhi") routes. In materials physics, Xue Qikun's team experimentally observed the Quantum Anomalous Hall Effect (QAHE) under zero external magnetic field for the first time, converting Western theoretical predictions into solid experimental evidence.
 
 ## Coordinate Value
-The coordinate value of this period lies in the "coordinate reshaping" of Chinese physics in the world scientific map. China is no longer a pure receiver of knowledge but has become an important pillar of global big science collaboration and one of the leaders in frontier exploration. The systematic advantages demonstrated by Chinese physics—from the huge research team and leading big device clusters to active interdisciplinary intersection—make it possess strong resilience when dealing with future scientific challenges. The significance of the new coordinates lies in that China is deeply participating in and even leading the next round of physics paradigm changes.
+The coordinate value of this period lies in the reshaping of coordinates under the "precision resonance" between Chinese and Western physics at the frontier. China has moved away from its role as a simple "receiver of knowledge" or "manufacturing base" to become an indispensable pillar of the global big science system and a pioneer of frontier exploration. The physics communities across the Taiwan Strait have deepened regional collaboration through joint research on TPS advanced light sources and the CERN CMS silicon preshower detector, demonstrating the overlapping advantages of "large teams, massive facilities, cross-disciplinary approaches, national systems, and highly efficient engineering execution." The close-quarters interaction between Chinese and Western physics in the deep waters of the scientific frontier is reshaping the global map of physics in the era of big science.
 
-From the perspective of the philosophy of science, Chinese physics in this period is experiencing a profound "Paradigm Shift." If the Needham Question discussed why China missed the first scientific revolution centered on reductionism and experimental science, then today in the 21st century, physics is moving toward a new paradigm characterized by "Big Science" and "AI for Science." Under this new paradigm, scientific discovery no longer depends only on isolated personal genius but depends on the processing of massive data, simulation of complex systems, and collaboration of interdisciplinary large teams. China, by virtue of its strong system advantages, huge research team, and deep accumulation in the fields of big data and artificial intelligence, exactly meets the needs of this paradigm shift. This shows that China is not only making up for the historical arrears but also actively participating in and even leading the reshaping of the next round of scientific paradigm.
+From the perspective of the philosophy of science, Chinese physics in this period is undergoing a profound "Paradigm Shift." If the "Needham Question" discusses why China missed the first scientific revolution centered on reductionism and experimental science, today in the 21st century, physics is moving toward a new paradigm characterized by "Big Science" and "AI for Science." Under this new paradigm, scientific discovery no longer relies solely on isolated individual genius, but rather on the processing of massive datasets, the simulation of complex systems, and the collaboration of interdisciplinary, large-scale teams. China, with its strong institutional advantages, massive research workforce, and deep accumulation in big data and artificial intelligence, is perfectly aligned with the requirements of this paradigm shift. This demonstrates that China is not only paying off its historical debts but also actively participating in and even leading the reshaping of the next scientific paradigm.
 
-## Content
-### Chapter 1: The Perfection of the Standard Model and the Dawn of New Paradigms
-Since 2010, the global physics community has ushered in several major discoveries of milestone significance. These discoveries not only improved the existing theoretical framework but also opened up brand-new paths for future exploration. Meanwhile, emerging technologies represented by artificial intelligence began to deeply integrate into physics research, predicting the profound change of scientific research paradigms.
+---
 
-#### I. The Discovery of the Higgs Boson: The Last Puzzle of the Standard Model
-In particle physics, the Standard Model is a theory describing three basic forces: strong interaction, weak interaction, and electromagnetic interaction, and the basic particles composing all matter. Although the Standard Model achieved huge success in predicting various experimental results, for a long time, it always lacked the most critical link—the Higgs boson.
+## Chapter 1: Big Science and New Paradigms — The Concurrence and Clash of the New Era
 
-The Higgs boson was a hypothetical particle proposed by the British physicist Peter Higgs and others in 1964. According to the Higgs mechanism, the universe is filled with the Higgs field, and basic particles obtain mass through interacting with the Higgs field. The stronger the interaction, the larger the particle mass. If the Higgs field did not exist, all basic particles would fly at the speed of light, failing to combine into atoms, and the universe would not evolve life.
+With the exponential growth of the complexity of scientific questions, the methods of exploring the frontiers of physics have undergone a fundamental reorganization. Individual free exploration and the institutionalized organization of massive scientific apparatuses interweave to jointly reveal the most extreme physical phenomena in the universe.
 
-To find this mysterious existence called the "God particle," CERN built the most complex scientific instrument in human history—the Large Hadron Collider (LHC). The LHC is located 100 meters underground at the border of Switzerland and France, possessing a 27-kilometer circular superconducting magnet orbit.
+### 1.1 Precision Particle & Neutrino Physics
 
-On July 4, 2012, CERN held a world-watched press conference. The two independent experiment teams on the LHC—ATLAS and CMS—jointly announced that they found a new particle with a mass of about 125 GeV, and its properties were highly consistent with the Higgs boson predicted by the Standard Model.
+#### Western Background: Discovery of the Higgs Boson at CERN LHC
+In the exploration of the microscopic world, finding the last scalar quantum field predicted by the Standard Model—the Higgs field, which gives inertial mass to fundamental particles—was the ultimate battle in the history of high-energy particle physics. In 2012, the Large Hadron Collider (LHC) at the European Organization for Nuclear Research (CERN), through the close collaboration of the ATLAS and CMS international experimental groups, finally observed a highly significant excess signal at an energy of approximately $125\text{ GeV}$ in proton-proton collisions with center-of-mass energies of $7\text{ TeV}$ and $8\text{ TeV}$. This excess corresponded to the decay of the Higgs boson (primarily through the $H \to \gamma\gamma$ and $H \to ZZ^* \to 4\ell$ channels). This discovery completed the Standard Model and confirmed the mechanism of electroweak symmetry breaking (EWSB).
 
-This discovery caused a sensation in the global scientific community. In 2013, Peter Higgs and François Englert were awarded the Nobel Prize in Physics for successfully predicting the Higgs boson. The discovery of the Higgs boson marked the final perfect establishment of the Standard Model. It not only explained the origin of mass but also drew a heavy stroke for human understanding of the microscopic structure of the universe. However, the perfection of the Standard Model also brought new confusion: it cannot explain dark matter, dark energy, and gravity, which means that outside the Standard Model, there must exist a broader unknown field of physics.
+#### China Point: Daya Bay Reactor Neutrino Experiment ($\theta_{13}$ Discovery) & Jiangmen Underground Neutrino Observatory (JUNO)
+In contrast to the Western route of constructing the Higgs boson profile using high-energy colliders, China has forged a unique path of precision measurement in the field of high-energy physics and reactor neutrino physics. In the PMNS neutrino mixing matrix, the first two mixing angles had been established through solar and atmospheric neutrino measurements, but the third mixing angle $\theta_{13}$ remained a physical bottleneck due to its extremely small value, which hindered the determination of the neutrino mass hierarchy and the discovery of leptonic CP violation.
 
-#### II. Detection of Gravitational Waves: Listening to the Zither Sound of the Universe
-If the discovery of the Higgs boson was the pinnacle work of the microscopic world, then the detection of gravitational waves was a masterpiece of macroscopic universe exploration.
+In March 2012, the Daya Bay Reactor Neutrino Experiment collaboration, led by Wang Yifang, utilized the ultra-high flux of electron antineutrinos $\bar{\nu}_e$ released by the Daya Bay and Ling Ao nuclear power plants. By deploying gadolinium-doped liquid scintillator detectors at varying baseline distances, they successfully measured a non-zero value for the mixing angle $\theta_{13}$ at a significance level of $5.2\sigma$. This discovery was hailed by the international physics community as a milestone in the history of particle physics, earning international prestige for China's high-energy physics. Subsequently, the Institute of High Energy Physics further embarked on the construction of the Jiangmen Underground Neutrino Observatory (JUNO), building a 20,000-ton liquid scintillator detector 700 meters underground to precisely determine the neutrino mass hierarchy and measure oscillation parameters with sub-percent accuracy at a golden baseline of 53 kilometers.
 
-According to the general theory of relativity proposed by Einstein in 1915, mass causes the bending of space and time. When massive celestial bodies undergo violent motion (such as black hole mergers, neutron star collisions), ripples of space and time are generated, propagating outward at the speed of light, called gravitational waves. Einstein himself once believed that because gravitational waves are extremely weak, humans might never be able to detect them.
+> [!TIP]
+> **Daya Bay Neutrino Oscillation Probability and $\theta_{13}$ Precision Measurement**
+> 
+> In the Daya Bay Reactor Neutrino Experiment, by detecting the disappearance of electron antineutrinos $\bar{\nu}_e$ released by nuclear reactors, scientists precisely determined the neutrino mixing angle $\theta_{13}$.
+> 
+> Under the three-flavor neutrino oscillation framework, the survival probability of an electron antineutrino after propagating a distance $L$ is given by:
+> 
+> $$ P_{\bar{\nu}_e \to \bar{\nu}_e} \approx 1 - \sin^2 2\theta_{13} \sin^2 \left( \frac{\Delta m^2_{ee} L}{4E} \right) - \cos^4 \theta_{13} \sin^2 2\theta_{12} \sin^2 \left( \frac{\Delta m^2_{21} L}{4E} \right) $$
+> 
+> where $E$ is the neutrino energy, $\Delta m^2_{21} \approx 7.5 \times 10^{-5}\text{ eV}^2$ is the solar mass squared difference, and $\Delta m^2_{ee} \approx 2.5 \times 10^{-3}\text{ eV}^2$ is the effective atmospheric mass squared difference.
+> 
+> In the short-baseline configuration of Daya Bay ($L \approx 1.5 - 2\text{ km}$), the oscillation term driven by $\theta_{12}$ is negligible, simplifying the formula to:
+> 
+> $$ P_{\bar{\nu}_e \to \bar{\nu}_e} \approx 1 - \sin^2 2\theta_{13} \sin^2 \left( \frac{\Delta m^2_{ee} L}{4E} \right) $$
+> 
+> The measurement published by the Daya Bay Collaboration in 2012 was:
+> 
+> $$ \sin^2 2\theta_{13} = 0.089 \pm 0.010\text{ (stat)} \pm 0.005\text{ (syst)} $$
+> 
+> This finding established a non-zero $\theta_{13}$ at the $5.2\sigma$ confidence level for the first time, providing a key physical parameter for determining the neutrino mass hierarchy and exploring CP violation in the leptonic sector.
 
-To catch this weak universe ripple, scientists developed the Laser Interferometer Gravitational-Wave Observatory (LIGO). LIGO is composed of two L-shaped interferometers separated by thousands of kilometers, each arm being 4 kilometers long. By measuring the changes of two laser interference fringes, LIGO can detect length changes smaller than one ten-thousandth of a proton diameter.
+### 1.2 Gravitational Waves & Cosmic Rays
 
-On September 14, 2015, the two detectors of LIGO simultaneously received a weak signal (GW150914). After rigorous analysis, scientists confirmed that this signal came from the merger of two black holes about 1.3 billion light-years away from Earth. The masses of these two black holes were 36 times and 29 times that of the sun, respectively, and they released energy equivalent to 3 solar masses in the merger process, all of which was radiated away in the form of gravitational waves.
+#### Western Background: Detection of Gravitational Waves by LIGO (GW150914) & Multi-Messenger Astronomy
+On the macroscopic scale of space and time, the direct detection of gravitational waves—the dynamic ripples in the curvature of spacetime predicted by Einstein's general theory of relativity—represents the pinnacle of modern precision measurement. On September 14, 2015, the Laser Interferometer Gravitational-Wave Observatory (LIGO), utilizing its two interferometers with Fabry-Perot arm cavities spanning thousands of kilometers, successfully recorded a gravitational wave signal (GW150914) with a peak strain amplitude of $1 \times 10^{-21}$ caused by the merger of two black holes ($36 M_\odot$ and $29 M_\odot$). This detection fully validated Einstein's wave theory of gravity and enabled humanity to directly "listen" to the dynamical mergers of compact celestial bodies via spacetime ripples, initiating the era of multi-messenger astronomy where gravitational waves and electromagnetic waves are observed in tandem.
 
-On February 11, 2016, the LIGO Scientific Collaboration officially announced this news to the whole world. The first direct detection of gravitational waves thoroughly confirmed the last important prediction of Einstein's general theory of relativity. In 2017, three scientists who made decisive contributions to the construction of LIGO—Rainer Weiss, Kip Thorne, and Barry Barish—were awarded the Nobel Prize in Physics.
+#### China Point: FAST Pulsar & Fast Radio Burst Search; LHAASO PeV Cosmic Ray Detection
+Concurrently, China deployed leading big science facilities in the cosmic macroscopic high-energy ray and low-frequency radio bands:
+- **Five-hundred-meter Aperture Spherical radio Telescope (FAST)**: As the world's largest single-aperture (500 meters) active reflector radio telescope, FAST utilizes an innovative cable-net actuator structure to deform its spherical surface into an instantaneous paraboloid during observations, greatly suppressing spherical aberration. Since its operation, FAST has discovered more than 1,000 new pulsars and provided high-statistics observations of the multi-frequency polarization properties of Fast Radio Bursts (FRBs), serving as the high-sensitivity polar outpost of global low-frequency radio surveys.
+- **Large High Altitude Air Shower Observatory (LHAASO)**: Situated on Haizi Mountain at an altitude of 4,410 meters, LHAASO utilizes a composite array of ground and underground detectors spanning a square kilometer (KM2A, WCDA, WFCTA) to achieve ultra-high resolution measurements of cosmic rays and high-energy gamma rays. In 2021, the LHAASO collaboration detected ultra-high-energy gamma photons up to $1.42\text{ PeV}$ (petaelectronvolts) in the Milky Way for the first time. This confirmed the existence of Galactic "PeVatrons" capable of accelerating particles to PeV scales, challenging or pushing beyond the energy limit ("knee" region) predicted by classical supernova remnant shock acceleration mechanisms.
 
-The discovery of gravitational waves created a brand-new discipline of "gravitational wave astronomy." Traditional electromagnetic wave astronomy (using visible light, infrared, X-rays, etc.) can only let us "see" the universe, while gravitational waves let us "hear" the activities of those non-luminous compact celestial bodies in the universe. Subsequently, the joint observation of gravitational waves and electromagnetic waves (multi-messenger astronomy) further deepened our understanding of major scientific problems such as neutron star mergers and the origin of heavy elements.
+> [!IMPORTANT]
+> **LIGO Binary Black Hole Merger Gravitational Wave Chirp Mass Formula**
+> 
+> In gravitational-wave astronomy, by analyzing the frequency evolution during the inspiral phase of a binary merger, one can directly extract the **chirp mass $\mathcal{M}$** of the system.
+> 
+> According to the first-order post-Newtonian approximation (1PN) of general relativity, the relationship between the chirp mass, the wave frequency $f$, and its time derivative $\dot{f}$ is:
+> 
+> $$ \mathcal{M} = \frac{(m_1 m_2)^{3/5}}{(m_1 + m_2)^{1/5}} = \frac{c^3}{G} \left[ \frac{5}{96} \pi^{-8/3} f^{-11/3} \dot{f} \right]^{3/8} $$
+> 
+> where $m_1$ and $m_2$ are the individual masses of the merging bodies, $c$ is the speed of light, and $G$ is the gravitational constant.
+> 
+> The peak strain amplitude $h$ of the gravitational wave induced on Earth is related to the chirp mass and the distance $D$:
+> 
+> $$ h \sim \frac{4 G \mathcal{M}}{c^2 D} \left( \frac{G \mathcal{M} \omega}{c^3} \right)^{2/3} $$
+> 
+> For the first directly detected signal, GW150914, LIGO measured a chirp mass of $\mathcal{M} \approx 28 M_\odot$, from which the individual progenitor black hole masses were inferred to be $36 M_\odot$ and $29 M_\odot$. The merger produced a rotating black hole of approximately $62 M_\odot$, with the remaining $3 M_\odot$ of mass converted into gravitational wave radiation in less than a second, releasing a maximum strain amplitude of:
+> 
+> $$ h \sim 1 \times 10^{-21} $$
 
-#### III. AI for Science: New Paradigm of Physics Research
-While the Standard Model moved toward perfection, the research method of physics itself was undergoing a quiet revolution. With the explosive growth of data volume and the rapid improvement of computing power, artificial intelligence (AI) began to intervene in various branches of physics as a powerful tool, or even a brand-new research paradigm.
+> [!TIP]
+> **LHAASO Ultra-High-Energy Gamma-Ray Photon Emission Mechanism**
+> 
+> The LHAASO team detected gamma-ray photons with energies exceeding $1\text{ PeV}$ ($10^{15}\text{ eV}$). In Galactic high-energy astrophysics, such petaelectronvolt photons are mainly produced via two mechanisms:
+> 
+> 1. **Hadronic Model**: High-energy protons collide inelastically with the interstellar medium (ISM), producing neutral pions $\pi^0$, which rapidly decay into gamma-ray photons:
+> 
+>    $$ p + p \to p + p + \pi^0 \to p + p + 2\gamma $$
+> 
+>    Due to momentum conservation, to produce a gamma-ray photon of energy $E_\gamma$, the parent proton's energy $E_p$ must satisfy:
+> 
+>    $$ E_p \approx 10 \times E_\gamma $$
+> 
+>    Detecting a $1.4\text{ PeV}$ photon implies the presence of an ultra-high-energy particle accelerator (PeVatron) in the Galactic source region that accelerates protons to at least $14\text{ PeV}$.
+> 
+> 2. **Leptonic Model**: High-energy electrons undergo inverse Compton scattering off low-energy seed photons. In the extreme Klein-Nishina limit:
+> 
+>    $$ E_e \gg \frac{m_e^2 c^4}{E_{\text{seed}}} $$
+> 
+>    The scattering cross-section drops, and the scattered photon carries away almost all of the incident electron's energy:
+> 
+>    $$ E_\gamma \approx E_e $$
+> 
+> LHAASO's discovery demonstrates that extreme Galactic particle acceleration mechanisms have approached or even surpassed the conventional limits based on supernova remnant shock acceleration (i.e., the "knee" energy at $E_{\text{max}} \sim 3\text{ PeV}$).
 
-Traditional physics research mainly relied on theoretical derivation and experimental verification. However, faced with many extremely complex systems—such as the design of high-temperature superconducting materials, simulation of many-body quantum systems, and prediction of extreme climates—traditional analytical methods are often powerless, and numerical simulation is also limited by computing resources.
+### 1.3 Quantum Information & Computational Supremacy
 
-Artificial intelligence, especially deep learning technology, provided new ideas for solving these difficulties. In the concept of "AI for Science," AI is no longer merely a tool for auxiliary data processing, but an intelligent system capable of learning physical laws and discovering new patterns.
+#### Western Background: Google Sycamore Superconducting Quantum Supremacy & Foundational Quantum Experiments
+Building upon the foundational experiments on quantum entanglement, quantum teleportation, and Bell inequality violations pioneered by Anton Zeilinger and others, Western nations engaged in intense competition in scaling physical platforms for quantum computing. In 2019, the Google AI Quantum team, utilizing the Sycamore processor containing 53 active superconducting Transmon qubits, demonstrated a 200-second computation for a Random Circuit Sampling (RCS) task, claiming the realization of "Quantum Supremacy" for the first time. This demonstrated that artificial superconducting systems can physically provide an extremely large and controllable non-trivial Hilbert space.
 
-In condensed matter physics and materials science, AI is used to predict the properties of new materials. By training on large-scale known material databases, machine learning models can predict the crystal structure, energy band structure, or superconducting critical temperature of an unknown material in a few seconds, thus shortening the research and development cycle of new materials from years to months. For example, AlphaFold developed by DeepMind, though mainly used for protein structure prediction in biology, its underlying deep learning ideas have rapidly penetrated the field of materials design, triggering a wave of smart materials design.
+#### China Point: Micius Quantum Satellite Integrated Network & Dual-Route Quantum Supremacy
+Faced with this competition, China made breakthrough progress on both quantum communication and quantum computational supremacy routes:
+- **Wide-Area Quantum Communication**: Pan Jianwei's team developed the world's first quantum science experiment satellite, "Micius," which was successfully launched in 2016. The team took the lead in completing satellite-to-ground bidirectional entanglement distribution, space-based quantum key distribution (QKD), and ground-to-satellite quantum teleportation over a thousand-kilometer scale. They also collaborated with Zeilinger's team to complete the first intercontinental quantum secure communication between Beijing and Vienna. This breakthrough integrated the ground-based fiber-optic trunk line (Beijing-Shanghai Line) with the space-based quantum network, constructing a wide-area, space-ground integrated quantum communication network.
+- **Dual-Route Breakthrough in Quantum Supremacy**: In the competition for quantum computational supremacy, the Chinese team achieved success on both the optical and superconducting tracks:
+  - **Optical Path**: The team led by Lu Chaoyang and Pan Jianwei developed the Gaussian Boson Sampling (GBS) prototype "Jiuzhang" series. Through an ultra-low-loss multi-mode linear optical network, they injected 255 coherent photons into a system with hundreds of modes, achieving a sampling rate that surpassed the fastest classical supercomputers by a factor of one hundred trillion.
+  - **Superconducting Path**: The team developed the "Zuchongzhi" programmable superconducting quantum computing prototype with 66 qubits, significantly exceeding Google's Sycamore in the complexity of three-dimensional random circuit sampling. China thus became the only country to achieve quantum supremacy on two distinct physical architectures.
 
-In high-energy physics, faced with the massive collision data generated by LHC every second, traditional trigger and analysis algorithms are difficult to maintain. Physicists use deep neural networks to identify complex particle tracks and find extremely rare physical events from background noise, greatly improving the efficiency and accuracy of data analysis.
+> [!IMPORTANT]
+> **"Jiuzhang" Boson Sampling Probability and Torontonian Matrix Analysis**
+> 
+> In the Gaussian Boson Sampling (GBS) performed by the "Jiuzhang" optical quantum computing prototype, when squeezed vacuum states are injected at the input and threshold detectors (which only distinguish between 0 and 1, without resolving photon number) are used at the output, the probability of detecting a specific photon click pattern $S = (s_1, s_2, \dots, s_M)$ (where $s_i \in \{0, 1\}$) is determined by the **Torontonian value of the matrix**:
+> 
+> $$ P(S) = \frac{1}{\sqrt{\det(\Sigma)}} \text{Tor}(A_S) $$
+> 
+> where $\Sigma$ is the covariance matrix of the state, $A = I - \Sigma^{-1}$ is the adjacency matrix, and $A_S$ is the submatrix of $A$ corresponding to the click pattern $S$.
+> 
+> The Torontonian function of the matrix $A_S$ is defined as:
+> 
+> $$ \text{Tor}(A_S) = \sum_{Z \subseteq S} (-1)^{|S| - |Z|} \frac{1}{\sqrt{\det(I - A_Z)}} $$
+> 
+> Computing the Torontonian of an $n$ -dimensional matrix is a notoriously hard problem ($\text{\#P-hard}$), and the computational complexity of classical algorithms grows exponentially with the number of clicked events $n$:
+> 
+> $$ \text{Time} \propto 2^{n/2} $$
+> 
+> "Jiuzhang 3.0" achieved the detection of 255 photon events, yielding a sampling rate one hundred trillion times faster than the fastest classical supercomputers, physically demonstrating a powerful "quantum computational advantage."
 
-In astronomy, AI is used to automatically classify hundreds of millions of galaxy images, look for gravitational lensing effects, or search for pulsars from noisy radio signals.
+### 1.4 Condensed Matter & Megaprojects
 
-The deeper change lies in that AI begins to help physicists discover new physical laws. Through symbolic regression and other techniques, AI can directly "guess" hidden analytical formulas from experimental data, and even rediscover Newton's laws of motion or Kepler's laws in some cases. This ability to directly extract physical laws from data predicts that AI-assisted or even AI-dominated theoretical physics discoveries may appear in the future.
+#### Western Background: Theoretical Framework of Topological Phase and Topological Insulators (Kane-Mele Model)
+At the frontier of condensed matter physics, the traditional symmetry-breaking paradigm (Landau theory) underwent a fundamental shift toward topological phases of matter. Western theoretical physicists, including Charles Kane, Eugene Mele, and Shou-Cheng Zhang, combined spin-orbit coupling in band structures with the concept of Berry curvature to propose the theoretical model of topological insulators. They predicted that in two-dimensional and three-dimensional materials with non-trivial band topologies, there could exist dissipationless edge conducting states protected by time-reversal symmetry.
 
-### Chapter 2: From Catching Up to Leading: The New Height of Chinese Physics
-While the world physics community was surging, Chinese physics also experienced a thorough transformation. From the "comprehensive catch-up" in the 20th century, to the "partial running side by side" at the beginning of the 21st century, and then to realizing "leading" in multiple key frontier fields after 2010, Chinese physics not only realized an explosion in volume but also achieved a leap in quality. Behind this leap was China's sustained strategic investment in basic research and the persistent efforts of generations of scientists to climb the peak.
+#### China Point: Experimental Realization of the Quantum Anomalous Hall Effect (QAHE) by Xue Qikun's Team
+Translating this elegant theory into solid experimental reality was a major challenge for the condensed matter community for decades. In 2013, Qi-Kun Xue's team at Tsinghua University, utilizing high-precision Molecular Beam Epitaxy (MBE) growth techniques, prepared high-quality chromium-doped magnetic topological insulator films of $\text{(Bi,Sb)}_2\text{Te}_3$. Under the sub-Kelvin temperatures provided by a dilution refrigerator and in the absence of any external magnetic field, they observed the Hall resistance precisely quantized at $h/e^2$ alongside zero longitudinal resistance, realizing the Quantum Anomalous Hall Effect. This breakthrough converted the theoretical prediction into reality, opening up new pathways for low-power nano-spintronic devices and physical platforms for topological quantum computing.
 
-#### I. The Rise of "Heavy Weapons of the Country": From FAST to LHAASO
-In modern physics, many major breakthroughs depend on extreme big scientific devices. These devices often cost huge sums and are extremely complex in technology, being a concentrated manifestation of a country's comprehensive national strength and technological level. In this period, China successively built and put into use a batch of world-class "heavy weapons of the country," providing unparalleled platforms for frontier scientific exploration.
+#### Cross-Strait Collaboration: Synchrotron TPS and Joint Participation in Global Megaprojects (CERN CMS)
+In the dimension of big science cooperation, physicists on both sides of the Taiwan Strait demonstrated a high level of collaborative synergy:
+- The Taiwan Photon Source (TPS, 3 GeV) built by the National Synchrotron Radiation Research Center (NSRRC) in Hsinchu, Taiwan, has become an important experimental facility for condensed matter physicists on both sides of the Strait to observe novel topological surface states via Angle-Resolved Photoemission Spectroscopy (ARPES), thanks to its low emittance and high photon brightness.
+- In CERN's LHC CMS (Compact Muon Solenoid) international megaproject, Taiwanese teams from National Taiwan University and National Central University worked in close collaboration with the Institute of High Energy Physics and Peking University from the mainland. Together, they designed and developed the CMS Silicon Preshower Detector. This detector demonstrated excellent spatial resolution in high-radiation environments, making a substantial physical contribution to CMS's successful capture of the Higgs boson by filtering out background interference in the diphoton channel.
 
-**1. China Sky Eye (FAST): The Most Sensitive Tentacle for Humans to Explore the Universe**
-Located in the Dawodang depression in Pingtang County, Guizhou Province, lies a giant "pot"—the Five-hundred-meter Aperture Spherical radio Telescope (FAST). This is currently the largest and most sensitive single-aperture radio telescope in the world, and its sensitivity is about 3 times that of the Arecibo telescope in the US, hailed as the "China Sky Eye."
+> [!NOTE]
+> **Quantum Anomalous Hall Effect Chern Number and Berry Curvature Formulas**
+> 
+> The Quantum Anomalous Hall Effect (QAHE) achieves the quantization of Hall resistance in dissipationless edge channels without an external magnetic field:
+> 
+> $$ \sigma_{xy} = C \frac{e^2}{h} $$
+> 
+> where $\sigma_{xy}$ is the Hall conductivity, $e$ is the elementary charge, $h$ is Planck's constant, and $C$ is the topologically invariant **Chern number (first Chern number)**.
+> 
+> The Chern number is the area integral of the **Berry curvature $\Omega_z(\mathbf{k})$** of all occupied states over the two-dimensional Brillouin Zone (BZ):
+> 
+> $$ C = \frac{1}{2\pi} \iint_{\text{BZ}} \Omega_z(\mathbf{k}) d^2\mathbf{k} $$
+> 
+> For the $n$ -th energy band, the Berry curvature is expressed as:
+> 
+> $$ \Omega_z(\mathbf{k}) = i \sum_{m \neq n} \frac{\langle u_n(\mathbf{k}) | \frac{\partial H}{\partial k_x} | u_m(\mathbf{k}) \rangle \langle u_m(\mathbf{k}) | \frac{\partial H}{\partial k_y} | u_n(\mathbf{k}) \rangle - \text{c.c.}}{(E_n(\mathbf{k}) - E_m(\mathbf{k}))^2} $$
+> 
+> where $H(\mathbf{k})$ is the lattice Hamiltonian, $| u_n(\mathbf{k}) \rangle$ represents the eigenstate wavefunctions, and $E_n(\mathbf{k})$ denotes the band energies.
+> 
+> By finely tuning the chemical potential in chromium-doped $\text{(Bi,Sb)}_2\text{Te}_3$ magnetic topological insulator ultrathin films, Xue's team achieved a topological insulator phase with $C = 1$ in zero external magnetic field where the chemical potential falls within the bulk and surface state gaps. This led to the experimental observation of a perfectly quantized anomalous Hall plateau:
+> 
+> $$ R_{xy} = \frac{h}{e^2} \approx 25812.8\,\Omega $$
 
-The construction of FAST was an engineering miracle. It has a receiving area of 30 football fields, composed of 4450 reflection panel units assembled together. More revolutionary is that FAST adopted active reflection surface technology, being able to adjust the shape of the reflection surface in real time according to the observation target, thereby achieving high-precision focusing.
+---
 
-Since its completion in 2016 and formal passing of national acceptance in 2020, FAST achieved extremely fruitful results in scientific observation. As of 2026, the number of pulsars discovered by FAST exceeded 1000, including multiple millisecond pulsars and double pulsars, greatly enriching human understanding of this compact celestial body.
+## Chapter 2: The Parallax of Paradigms — Institutions and Ideological Currents in the Era of Big Science
 
-Besides pulsar search, FAST also played a key role in the research of Fast Radio Bursts (FRBs). Fast radio bursts are radio burst events with extremely short duration but extremely high energy in the universe, and their origin is still an unsolved mystery. FAST, by virtue of its ultra-high sensitivity, captured a large number of repeated bursts of FRBs, providing valuable data for revealing their physical origin. In addition, FAST also participated in frontier scientific projects such as Search for Extraterrestrial Intelligence (SETI), becoming the frontmost post for humans to explore the unknown universe.
+This wave of breakthroughs at the physics frontier is not merely an scale-up of experimental apparatuses or an increase in the precision of physical parameters. It represents a historical juncture of profound parallax and restructuring in research organization paradigms, natural philosophies, and methodologies.
 
-**2. Large High Altitude Air Shower Observatory (LHAASO): Capturing the Extremely High Energy Messengers of the Universe**
-On Haizi Mountain at an altitude of 4410 meters in Daocheng County, Sichuan Province, sits another "heavy weapon of the country"—Large High Altitude Air Shower Observatory (LHAASO). Cosmic rays are high-energy particles from outer space, carrying information about extreme physical processes in the deep universe.
+### 2.1 Epistemological Divide: Microscopic Limits of Reductionism vs. Emergence in Complex Systems and the AI for Science Paradigm
+The reductionist thinking established in the West since Descartes and Newton reached its microscopic limits in high-energy physics' quest for fundamental particles (such as the LHC). However, while the Standard Model is elegant, reductionism faces an exponential "curse of dimensionality" when confronting dark matter, strongly correlated many-body systems, and non-linear dynamics.
 
-LHAASO covers an area of about 1.36 square kilometers, composed of a water Cherenkov detector array, a ground shower particle detector array, and a wide-angle Cherenkov telescope array, being the most sensitive extremely high energy gamma ray detection device in the world.
+In contrast, 21st-century physics is shifting at unprecedented speed toward "emergence in complex systems" and the data-driven "AI for Science" paradigm. Scientific discovery no longer relies solely on traditional symbolic derivations, but rather on the deep integration of artificial intelligence surrogate models (Surrogate Models) with physical principles (such as conservation laws and translational symmetries). For instance, in the massive, noisy datasets of LHAASO, FAST, and the LHC, neural networks have replaced tedious classical filtering to reconstruct particle tracks and discover materials across scales, demonstrating a shared methodological resonance between the Chinese and Western scientific communities.
 
-In May 2021, the LHAASO team published breakthrough scientific results in *Nature* magazine. They detected a large number of PeV ( $10^{15}$ electron volts) level extremely high energy gamma photons in the Milky Way galaxy, with the highest energy reaching a record 1.4 PeV. This discovery challenged traditional cosmic ray acceleration theories, showing that there exist super accelerators (PeVatrons) in the Milky Way galaxy capable of accelerating particles to PeV energy, completely changing human understanding of the high-energy universe of the Milky Way galaxy.
+### 2.2 Ontological Foundation: Classical Local Realism vs. Quantum Nonlocality and the Emergent Universe
+Moving from the classical macroscopic view of nature to the new era, physics has profoundly deconstructed the ontological foundation of the universe. Classical local realism was ruled out by space-ground integrated entanglement experiments over a thousand kilometers. The quantum teleportation and Bell inequality tests conducted by the collaboration of Pan's and Zeilinger's teams confirmed the nonlocal nature of the universe (Quantum Nonlocality). This emergent (Emergence) view of the universe shattered the Newtonian concept of isolated physical entities, turning systematic quantum entanglement itself into a controllable physical resource and reshaping our understanding of the informational nature of the universe.
 
-#### II. Leap of Quantum Information Science: From "Mozi" to Quantum Superiority
-Quantum information science is one of the most active frontier sciences in this century. It combines quantum mechanics and information science, promising to bring revolutionary breakthroughs in computing power, communication security, and precision measurement. In this field, Chinese scientists achieved results attracting worldwide attention, realizing the gorgeous turn from catching up to leading.
+### 2.3 Sociological Construction: Transnational Funding Politics in Western Megaprojects vs. China's "Whole-of-Nation System" and Taiwan's High-Tech Industry Synergy
+In the sociological construction of frontier big physics facilities, the East and West exhibit distinct institutional parallaxes:
+- Western big science (such as CERN, ITER) is built on transnational funding politics, academic lobbying, and decentralized governance, which results in long decision cycles and vulnerability to budget fluctuations and geopolitical instability.
+- In contrast, China utilizes its "Whole-of-Nation System" to achieve rapid engineering execution and resource mobilization for big science projects. The swift capping of the Daya Bay detectors, the rapid tensioning of the FAST cable-net, and the full-speed construction of LHAASO all demonstrate the alignment of national decision-making with frontier engineering capabilities.
+- Additionally, Taiwan's highly developed semiconductor manufacturing capabilities and the TPS light source complement the mainland's large-scale particle detectors and cosmic ray arrays, demonstrating the collaborative resilience of regional scientific networks.
 
-**1. Quantum Communication: Constructing an Absolutely Secure Network of Heaven and Earth Integration**
-In the field of quantum communication, China has always been in a leading position in the world. In August 2016, China successfully launched the world's first quantum scientific experiment satellite "Mozi." This satellite named after the ancient Chinese philosopher Mozi carried advanced quantum key distribution and quantum entanglement distribution payloads.
+---
 
-During its in-orbit operation, "Mozi" successfully completed three major scientific goals: thousand-kilometer level satellite-ground bidirectional quantum entanglement distribution, satellite-ground quantum key distribution, and ground-satellite quantum teleportation. These experiments first confirmed the existence of non-locality of quantum mechanics on the spatial scale and laid the technical foundation for constructing a wide-area quantum communication network covering the globe.
+## Chapter 3: West vs. China Comparison Matrix for Part 6
 
-Behind this brilliant achievement lies the mentorship and cooperation across borders of two generations of quantum physicists. In 1996, the young Pan Jianwei went to the University of Vienna in Austria to pursue a doctorate, studying under the master of quantum experimental physics Anton Zeilinger. In 1997, they collaborated to publish a paper in *Nature* magazine on the first successful realization of quantum teleportation, shocking the world. Years later, when Pan Jianwei returned to China and led the development of the "Mozi" satellite, he did not forget his former mentor. In 2017, "Mozi" successfully realized intercontinental quantum secure communication between Beijing and Vienna, and Pan Jianwei and Zeilinger conducted the first intercontinental quantum secure video call in human history. This story from "student learning from teacher" to "teacher and student leading hand in hand" was not only a leap in personal academic career but also a vivid portrayal of Chinese physics moving from absorption and introduction to feeding back the global scientific community.
+The intersection and complementarity between the Western achievements (World Axis) and the Chinese developments (China Point) during 2010–present can be systematically summarized via the following matrix:
 
-Encouraged by the success of "Mozi," China further built the quantum communication backbone network "Beijing-Shanghai High-Speed Rail" (Beijing-Shanghai Line) connecting Beijing and Shanghai, with a total length of over 2000 kilometers. Through the docking of "Beijing-Shanghai Line" and "Mozi," China initially constructed the prototype of the world's first wide-area quantum communication network with heaven and earth integration, providing guarantee for absolutely secure communication in fields such as finance and government affairs.
+| Comparison Dimension | Western World Axis | Chinese Point | Coordinate Value |
+| :--- | :--- | :--- | :--- |
+| **Frontiers of Physics & Megaprojects** | **Standard Model Completion & Multi-Messenger Astronomy**: Discovering the Higgs Boson at CERN (2012); direct detection of gravitational waves by LIGO (2015). | **Big Science Apparatus & Breakthroughs**: Daya Bay $\theta_{13}$ discovery (2012); LHAASO cosmic rays (2021); FAST pulsar discovery. | **Precision Era co-running**: China's infrastructure achieves state-of-the-art precision, turning China from a learner into a vital pillar of global big physics. |
+| **Quantum Frontiers & Computing** | **Theory Pioneering & Qubit Scaling**: Zeilinger's foundational work; Google Sycamore (53-qubit) superconducting supremacy (2019). | **Space Quantum Links & Dual-Route Supremacy**: Micius QKD satellite (2016-17); Jiuzhang (optical) and Zuchongzhi (superconducting) quantum supremacy. | **Frontier Leap**: China leads in global space-based quantum networks and is the only nation achieving supremacy on both optical and superconducting tracks. |
+| **Condensed Matter & Materials** | **Topological Insulators & Band Inversion**: Theoretical prediction of 2D & 3D topological insulators (Kane-Mele, Zhang Shoucheng). | **Experimental Discovery of QAHE**: Xue Qikun's group experimental realization of QAHE in magnetic topological thin films (2013). | **Experimental Masterpiece**: Transitioning theoretical models from the West into absolute experimental proof in China, hailed as Nobel-level research. |
+| **Scientific Paradigm & AI** | **AI for Science**: DeepMind's AlphaFold 2 (2021) solving protein folding; symbolic regression (AI Feynman) for physical laws. | **Embracing AI & Hybrid Methods**: Integrating neural networks into LHAASO/FAST/LHC data pipelines; building AI for Science research networks. | **Paradigm Shift**: Co-pioneering the shift from individual genius/classic simulation to data-driven, machine learning-assisted physical discovery. |
+| **Collaboration & Regional Synergy** | **Global Megaprojects**: CERN (LHC), LIGO, and ITER attracting talent globally and establishing standard rules for large collaborations. | **Reverse Talent Flow & "Whole-of-Nation System"**: Pan Jianwei, Wang Yifang returning; JUNO attracting international participation; Taiwan's TPS & CMS contribution. | **Structural Reconnection**: Reintegrating top-tier returnees into a unified domestic funding framework, combined with Taiwan's synchrotron and semiconductor leadership. |
 
-**2. Quantum Computing: Twice Asking the Top of "Quantum Superiority"**
-Quantum computing uses the principles of quantum superposition and quantum entanglement, theoretically having computing power far exceeding classical supercomputers when solving certain specific problems. The milestone demonstrating this transcending classical computing power is called "Quantum Superiority" (or quantum supremacy).
+---
 
-In December 2020, the research team composed of Pan Jianwei, Lu Chaoyang, etc. published results in *Science* magazine, announcing the successful construction of a 76-photon quantum computing prototype "Jiuzhang." When processing "Gaussian Boson Sampling," a specific complex problem, the speed of "Jiuzhang" was 100 trillion times faster than "Fugaku," the fastest supercomputer in the world at that time. This was the first time China successfully realized "Quantum Superiority."
+## Chapter 4: Conclusion and Revelations — Paradigm Reflections on Bridging the "Needham Question"
 
-Subsequently, the research team continuously optimized "Jiuzhang," successively launching "Jiuzhang II" and "Jiuzhang III," with the number of photons continuously increasing and computing power increasing exponentially.
+As physics enters the era of integration between big science and the artificial intelligence paradigm, the coordinates of Chinese and Western physics have intersected. If the historical "Needham Question" reveals that China failed to birth modern science due to missing the dual traditions of formal logic and controlled experimentation, the current restructuring of the paradigm of scientific discovery offers China a historic opportunity.
 
-Meanwhile, on the superconducting quantum computing route, China also achieved major breakthroughs. In 2021, China successfully developed the 66-bit programmable superconducting quantum computing prototype "Zu Chongzhi," and realized quantum superiority in random circuit sampling on it. China thus became the only country in the world to realize "Quantum Superiority" on both light quantum and superconducting quantum technical routes.
+### 4.1 Modern Scientific Thinking and Educational Reflections
+From the overlapping practices of East and West in this period, we can draw three key reflections for science education and cognitive transformation:
 
-#### III. Breakthrough in Topological Quantum States: Quantum Anomalous Hall Effect
-In the field of condensed matter physics, Chinese scientists also achieved breakthrough results of Nobel Prize level. In 2013, the team led by Academician Xue Qikun at Tsinghua University, taking 4 years and overcoming countless experimental difficulties, first observed the Quantum Anomalous Hall Effect (QAHE) in experiment.
+1.  **Breaking Disciplinary Silos to Cultivate Hybrid Innovators**:
+    Major breakthroughs in modern physics, such as quantum information and AI for Science, occur at the interfaces of physics, computer science, materials science, and information engineering. Education systems must move away from the "siloed" training models of single disciplines. They should systematically integrate algorithmic thinking, computational physics, and material characterization tools with core physical concepts to cultivate hybrid scientists capable of cross-disciplinary dialogue.
+2.  **Introducing Data Literacy and Statistical Complexity**:
+    In the presence of massive physical datasets, such as the terabytes of radio signals generated daily by FAST or the ultra-high-energy particle showers detected by LHAASO, the method of finding weak signals has shifted to an "algorithm-statistical" paradigm. Science education should move beyond classical analytic derivations to incorporate training in complex system modeling, stochastic processes, statistical analysis, and machine learning for extracting physical laws, thereby enhancing students' computational intuition in physics.
+3.  **Balancing Big Science Infrastructure with the Diversity of Free Exploration**:
+    While the "Whole-of-Nation" approach has shown immense strength in executing large-scale engineering and data collection for big science facilities, we must not forget that "from 0 to 1" breakthroughs still depend on individual curiosity, rebellion against established models, and a loose, flexible academic environment (as seen in the birth of early quantum mechanics and topological theories). Therefore, funding allocation and evaluation systems must support both large-scale coordinated research and long-term, evaluation-free space for "lone braves" exploring unconventional directions, thus preserving the diversity of the scientific ecosystem.
 
-The quantum Hall effect is one of the core research objects in condensed matter physics, usually requiring observation under an extremely strong magnetic field. The quantum anomalous Hall effect does not require an external magnetic field, which makes it have huge application potential in future low-power electronic devices. Nobel Prize winner Yang Chen-Ning praised this discovery as "the first Nobel Prize level physical paper published from a Chinese laboratory." This result was published in *Science* magazine [Science 340, 167 (2013)].
+The ultimate answer to bridging the "Needham Question" may not lie in how fast we can run under the classical physics paradigm, but rather in whether China's physics community can utilize its deep engineering foundation, cross-disciplinary sensitivity, and open collaborative attitude to become a leading force in driving new physical laws and the evolution of the scientific paradigm as global physics shifts toward data, intelligence, and megaproject synergy.
 
-#### IV. Chinese Power in International Big Science Collaboration
-With the improvement of scientific research strength, the role of Chinese physicists in international big science collaboration experienced a profound change. China moved from a past "paying participant" or "labor provider" to the initiator, core contributor, and even leader of many major international collaboration projects.
+---
 
-The breakthrough achieved by China in the field of neutrino physics is a model of international big science collaboration. The Daya Bay Reactor Neutrino Experiment led by Academician Wang Yifang announced the discovery of the third oscillation mode of neutrinos in 2012 and precisely measured the mixing angle $\theta_{13}$ [Phys. Rev. Lett. 108, 171803 (2012)]. This discovery was rated by *Science* magazine as one of the top ten scientific breakthroughs in 2012, providing key clues for understanding the matter-antimatter asymmetry in the universe.
+## References
 
-The success of the Daya Bay experiment won international reputation for China in neutrino research and directly spawned a larger scale follow-up project—the Jiangmen Underground Neutrino Observatory (JUNO). JUNO aims to determine the mass order of neutrinos and perform more precise measurements of neutrino oscillation parameters. This giant experimental device located 700 meters underground attracted hundreds of scientists from more than ten countries and regions in the world to participate, with China playing a dominant role in it.
-
-In addition, Chinese scientists also bear increasingly important core tasks in global top scientific projects such as the LHC experiment of CERN and the International Thermonuclear Experimental Reactor (ITER). What China contributes is not only funds and equipment but also indispensable intelligence and solutions.
-
-In terms of academic exchanges and cooperation across the Taiwan Strait, the physics community has always maintained close ties. Despite political complexity, collaboration between scientists on both sides in fields such as synchronous radiation light sources and high-energy physics experiments never stopped. Taiwan's global leading position in advanced semiconductor physics and technology forms a complement with the advantages of the mainland in basic research and full industry chains, jointly promoting the development of physics in the Greater China region.
-
-The vigorous development of Chinese physics in this period not only improved China's own technological strength but also contributed Chinese wisdom to the treasure house of human knowledge. Standing at the starting point of a new era of integration of big science and AI, Chinese physics is marching toward a more brilliant future with unprecedented confidence.
-
-### 【Scientific Thinking and Education Revelations】
-
-The development of physics in the era of Big Science and AI paradigm provides us with valuable scientific thinking paradigms and education revelations:
-
-1. **Mindset Shift from Single Discipline to Cross-Disciplinary Fusion**: The frontier breakthroughs of modern physics (such as AI for Science, quantum information) are all results of interdisciplinary intersection. This reveals to us that in science education, traditional discipline barriers should be broken, and compound innovative talents with backgrounds like "physics + computer" and "physics + materials" should be cultivated.
-2. **Introduction of Big Data and Computational Thinking**: With the explosive growth of data volume, the ability to extract physical laws from massive data becomes crucial. Education should strengthen the cultivation of students' data literacy, algorithm thinking, and complex system thinking ability, so that they can adapt to data-driven scientific discovery.
-3. **Balance between "Big Science" Institutionalization and Free Exploration**: The success of big devices like FAST and LHAASO demonstrates the huge power of organized scientific research (Big Science). But at the same time, we should also clearly recognize that original paradigm breakthroughs often originate from individual scientists' curiosity and free exploration (such as the development of early quantum mechanics). Therefore, science education and scientific research systems should both support the "corps operations" of large teams and leave room for the whimsical ideas of "lone braves," maintaining the diversity of the scientific ecology.
+1. **ATLAS Collaboration (Aad, G., et al.)** (2012). "Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC". *Physics Letters B*, 716(1), 1-29. DOI: 10.1016/j.physletb.2012.08.020
+2. **CMS Collaboration (Chatrchyan, S., et al.)** (2012). "Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC". *Physics Letters B*, 716(1), 30-61. DOI: 10.1016/j.physletb.2012.08.021
+3. **Daya Bay Collaboration (An, F. P., et al.)** (2012). "Observation of Electron-Antineutrino Disappearance at Daya Bay". *Physical Review Letters*, 108(17), 171803. DOI: 10.1103/PhysRevLett.108.171803
+4. **JUNO Collaboration (An, F. P., et al.)** (2016). "Neutrino Physics with JUNO". *Journal of Physics G: Nuclear and Particle Physics*, 43(3), 030401. DOI: 10.1088/0954-3899/43/3/030401
+5. **LIGO Scientific Collaboration and Virgo Collaboration (Abbott, B. P., et al.)** (2016). "Observation of Gravitational Waves from a Binary Black Hole Merger". *Physical Review Letters*, 116(6), 061102. DOI: 10.1103/PhysRevLett.116.061102
+6. **LHAASO Collaboration (Cao, Z., et al.)** (2021). "Ultrahigh-energy photons up to 1.4 petaelectronvolts from 12 $\gamma$ -ray Galactic sources". *Nature*, 594(7861), 83-87. DOI: 10.1038/s41586-021-03498-z
+7. **Li, D., Wang, P., Zhu, W. W., Zhang, B., et al.** (2021). "A rich catalog of fast radio bursts from a single source". *Nature*, 598(7880), 267-271. DOI: 10.1038/s41586-021-03878-5
+8. **Nan, R., Li, D., Xu, R., Wang, Q., Zhu, C., Zhu, W., Yue, Y., & Gan, H.** (2011). "The Five-hundred-meter Aperture Spherical radio Telescope (FAST) project". *International Journal of Modern Physics D*, 20(6), 989-1024. DOI: 10.1142/S021827181101933X
+9. **Liao, S. K., et al.** (2017). "Satellite-to-ground quantum key distribution". *Nature*, 549(7670), 43-47. DOI: 10.1038/nature23655
+10. **Liao, S. K., et al.** (2018). "Satellite-Relayed Intercontinental Quantum Network". *Physical Review Letters*, 120(3), 030501. DOI: 10.1103/PhysRevLett.120.030501
+11. **Yin, J., et al.** (2017). "Satellite-based entanglement distribution over 1200 kilometers". *Science*, 356(6343), 1140-1144. DOI: 10.1126/science.aan3211
+12. **Zhong, H. S., et al. (including C. Y. Lu & J. W. Pan)** (2020). "Quantum computational advantage using photons". *Science*, 370(6523), 1460-1463. DOI: 10.1126/science.abe8770
+13. **Zhong, H. S., et al.** (2021). "Phase-Programmable Gaussian Boson Sampling Using Stimulated Squeezed Light". *Physical Review Letters*, 127(18), 180502. DOI: 10.1103/PhysRevLett.127.180502
+14. **Liang, D. F., et al.** (2023). "Gaussian Boson Sampling with Pseudo-Photon-Number-Resolving Detectors". *Physical Review Letters*, 131(15), 150501. DOI: 10.1103/PhysRevLett.131.150501
+15. **Wu, Y., et al.** (2021). "Strong Quantum Computational Advantage using a Programmable Superconducting Processor". *Physical Review Letters*, 127(18), 180503. DOI: 10.1103/PhysRevLett.127.180503
+16. **Zhu, Q., et al.** (2021). "Programmable Superconducting Quantum Processor with 66 Qubits". *Science Bulletin*, 66(23), 2404-2407. DOI: 10.1016/j.scib.2021.10.017
+17. **Arute, F., et al. (Google AI Quantum)** (2019). "Quantum supremacy using a programmable superconducting processor". *Nature*, 574(7779), 505-510. DOI: 10.1038/s41586-019-1666-5
+18. **Bouwmeester, D., Pan, J. W., Mattle, K., Eibl, M., Weinfurter, H., & Zeilinger, A.** (1997). "Experimental quantum teleportation". *Nature*, 390(6660), 575-579. DOI: 10.1038/37513
+19. **Chang, C. Z., Zhang, J., Feng, X., Shen, J., Zhang, Z., Guo, M., Li, K., Ou, Y., Pang, W., Wang, L., Ji, J. F., Feng, Y., Ji, S., Chen, X., Jia, J., Dai, X., Fang, Z., Zhang, S. C., He, K., Wang, Y., Lu, L., Ma, X. C., & Xue, Q. K.** (2013). "Experimental Observation of the Quantum Anomalous Hall Effect in a Magnetic Topological Insulator". *Science*, 340(6129), 167-170. DOI: 10.1126/science.1234414
+20. **Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O., Tunyasuvunakool, K., Bates, W., Žídek, A., Potapenko, A., Bridgland, A., Meyer, C., Kohl, S. A. A., Ballard, A. J., Cowie, A., Romera-Paredes, B., Nikolov, S., Jain, R., Adler, J., Back, T., Petersen, S., Reiman, D., Clancy, E., Zielinski, M., Steinegger, M., Pacholska, M., Berghammer, T., Bodenstein, S., Silver, D., Vinyals, O., Senior, A. W., Kavukcuoglu, K., Kohli, P., & Hassabis, D.** (2021). "Highly accurate protein structure prediction with AlphaFold". *Nature*, 596(7873), 583-589. DOI: 10.1038/s41586-021-03819-2
+21. **Udrescu, S. M., & Tegmark, M.** (2020). "AI Feynman: A physics-inspired method for symbolic regression". *Science Advances*, 6(16), eaay2631. DOI: 10.1126/sciadv.aay2631
+22. **Radovic, A., Williams, M., Rousseau, D., Kagan, M., Bonacorsi, B., Himmel, A., Aurisano, A., Terao, K., & Wongjirad, T.** (2018). "Machine learning at the energy and intensity frontiers of particle physics". *Nature*, 560(7716), 41-48. DOI: 10.1038/s41586-018-0361-2
+23. **Kuo, C. C., et al. (NSRRC TPS Team)** (2013). "Status of the Taiwan Photon Source". *Journal of Physics: Conference Series*, 425(4), 042004. DOI: 10.1088/1742-6596/425/4/042004
+24. **Aspell, P., et al.** (2012). "The CMS silicon preshower detector: Design and implementation". *Nuclear Instruments and Methods in Physics Research Section A*, 687, 98-114. DOI: 10.1016/j.nima.2012.05.083
+25. **CMS Collaboration (Chatrchyan, S., et al.)** (2008). "The CMS experiment at the CERN LHC". *Journal of Instrumentation*, 3(08), S08004. DOI: 10.1088/1748-0221/3/08/S08004
