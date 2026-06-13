@@ -159,4 +159,4 @@ This severe temporal dislocation meant that just as the Qing government was fina
 2. John Tyndall (author), John Fryer (oral translator), Xu Shou (scribe). *Wu Ti Yu Re Bian Ge Ji* (*Heat as a Mode of Motion*). Translation Office of the Jiangnan Arsenal, 1882.
 3. Joseph Needham. *Science and Civilisation in China* (Volume 4: Physics and Physical Technology). Cambridge University Press.
 4. Benjamin A. Elman. *On Their Own Terms: Science in China, 1550–1900*. Harvard University Press, 2005.
-5. Liu Bing. *Panning for Gold in Lishui: Studies on the History of Modern Physics in China*. Shandong Education Press, 2001.
+5. Liu Bing. *Science in the Eyes of Clio: Historiography of Science and Science History Studies*. Shandong Education Press, 2001.

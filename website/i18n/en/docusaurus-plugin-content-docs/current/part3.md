@@ -117,7 +117,7 @@ This part records the start and brilliance of Chinese physics in the most diffic
 
 ## References
 1. Guo Yiling, Shen Huijun. *History of Modern Physics*. Beijing: Tsinghua University Press, 1993.
-2. Ye Qisun. *History of Chinese Physics* (Related discussions and memorial collection).
+2. Ye Qisun. *Collected Works of Ye Qisun* (Related physics history discussions). University of Science and Technology of China Press, 1992.
 3. Dai Jun. *Discovering Li Zhuang*. Sichuan Literature and Art Publishing House, 2004.
 4. Yu Hao, Fan Hongye. *Pioneers of Modern Chinese Science—Biography of Ye Qisun*. Fudan University Press, 2002.
 5. Yang Chen-Ning. *Father and I* (Memories about Southwest Associated University).
