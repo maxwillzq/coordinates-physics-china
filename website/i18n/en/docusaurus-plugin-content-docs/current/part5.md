@@ -120,4 +120,3 @@ Looking back at the development of Chinese physics from 1978 to 2010, we can obt
 ## References
 1. Ministry of Science and Technology. *China Science and Technology Development Report*.
 2. Institute of High Energy Physics, Chinese Academy of Sciences. *Thirty Years of Beijing Electron Positron Collider*.
-3. Zhao Zhongxian. *Superconductivity: Dream Searching in China*. Science Press, 2016.
