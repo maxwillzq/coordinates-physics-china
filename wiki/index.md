@@ -16,6 +16,10 @@
 - [沈括](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/shen_kuo.md)
 - [朱载堉](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/zhu_zaiyu.md)
 - [张衡](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/zhang_heng.md)
+- [李善兰](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/li_shanlan.md)
+- [徐寿](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/xu_shou.md)
+- [傅兰雅](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/john_fryer.md)
+- [伟烈亚力](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/alexander_wylie.md)
 - [杨振宁](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/yang_zhenning.md)
 - [李政道](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/li_zhengdao.md)
 - [吴健雄](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/wu_jianxiong.md)
@@ -36,8 +40,13 @@
 - [候风地动仪与惯性物理](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/seismograph_inertia.md)
 - [古代深井钻探技术](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/deep_well_drilling.md)
 - [古代水利机械与流体力学应用](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/water_machinery.md)
+- [《重学》译著与力学引入](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/chong_xue.md)
+- [格致向物理的演变](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/ge_zhi_evolution.md)
+- [分析力学与变分原理](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/analytical_mechanics.md)
+- [麦克斯韦方程组与场论](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/maxwell_equations.md)
+- [卡诺循环与热效率](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/carnot_cycle.md)
 - [宇称不守恒](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/parity_violation.md)
 - [杨-米尔斯场论](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/yang_mills_theory.md)
 
 ---
-*最后更新：2026-06-12*
+*最后更新：2026-06-13*

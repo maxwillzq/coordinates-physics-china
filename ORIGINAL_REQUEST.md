@@ -210,3 +210,42 @@
 ## Follow-up — 2026-05-25T22:42:16Z
 
 User has manually edited website/docs/part4.md with deep improvements (Needham, Kuhn, Oppenheimer comparison, data, and education section). Please instruct the worker for Part 4 to not overwrite these changes, or use them as the new baseline.
+
+## Follow-up — 2026-06-13T09:13:54-07:00
+
+Refine and restructure Part 2 of the *Coordinates* book (both Chinese and English editions) following the project's style guide. This involves researching and documenting historical translations, updating the wiki, rewriting the Docusaurus files, and verifying page builds.
+
+Working directory: /Users/johnqiangzhang/Documents/projects/coordinates-physics-china
+Integrity mode: development
+
+## Requirements
+
+### R1. Wiki Database Ingestion (Wiki-First)
+Prior to editing site articles, research and create Wiki pages under `/wiki/entities/` and `/wiki/concepts/` for relevant historical figures and physics paradigms introduced in Part 2. Update `/wiki/index.md` and log the actions in `/wiki/log.md`.
+
+### R2. Restructure website/docs/part2.md (Chinese Edition)
+Rewrite `website/docs/part2.md` following the symmetrical close-combat structure (discipline-specific sections comparing West vs. China) and text guidelines defined in `/wiki/drafts/style_template.md`. Deconstruct translations of Li Shanlan and Xu Shou using modern physical terms and introduce LaTeX-formatted alert boxes.
+
+### R3. Synchronize and Refine English Translation
+Fully translate the updated Part 2 Chinese content to `/website/i18n/en/.../part2.md`, keeping paragraph flow, LaTeX equations, alert boxes, and image references completely synchronized.
+
+### R4. Compilation and Build Verification
+Ensure the Docusaurus site compiles cleanly without broken links, broken markdown image paths, or KaTeX rendering syntax errors.
+
+## Acceptance Criteria
+
+### Wiki Quality
+- [ ] New entity files (`li_shanlan.md`, `xu_shou.md`, `john_fryer.md`, `alexander_wylie.md`) exist under `/wiki/entities/`.
+- [ ] New concept files (`chong_xue.md`, `ge_zhi_evolution.md`, `analytical_mechanics.md`, `maxwell_equations.md`, `carnot_cycle.md`) exist under `/wiki/concepts/`.
+- [ ] All new files are linked in `/wiki/index.md` and operations are logged in `/wiki/log.md`.
+
+### Document Structure & Style (Chinese & English)
+- [ ] Both `part2.md` files (Chinese and English) use `pathname:///img/part2_illustration.png` as their header illustration.
+- [ ] Chapter 1 has three symmetrical comparative sections matching analytical mechanics, thermodynamics, and electromagnetism.
+- [ ] Chapter 2 has three comparative sections matching translation languages, translation mechanisms, and paradigm lag/parallax.
+- [ ] High-temperature/low-temperature thermal engines and translation vocabularies are mapped into math-infused `[!IMPORTANT]` and `[!NOTE]` alert boxes with LaTeX formulas.
+- [ ] All inline LaTeX formulas are padded with outer spaces (e.g. ` $...$ `) to ensure rendering.
+
+### Build Verification
+- [ ] Running `npm run build` inside `website/` finishes with success and outputs localized static HTML pages.
+

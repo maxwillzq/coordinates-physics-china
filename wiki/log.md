@@ -143,3 +143,8 @@
 ## [2026-06-12] style | 沉淀项目结构与文字风格指南，优化 Part 2 计划
 - **风格模板输出**：根据 Part 1 的重构经验，编写了通用的 `wiki/drafts/style_template.md` 风格指南，涵盖三位一体导言、学科对称轴贴身对撞、二章范式深度解构、复盘矩阵与结语等四大结构层级，以及理性宏大基调、文白交织、硬核物理术语解构、强逻辑链条及 LaTeX 空格安全等五大文字规范。
 - **Part 2 计划升级**：将风格指南要求融合入 `wiki/drafts/part2_refinement_plan.md`，对第一章的分析力学、热力学、电磁场对撞以及第二章的李善兰、徐寿翻译语义重构大纲进行了具体对称化设计，强化了 Part 2 的实操指导作用。
+
+## [2026-06-13] ingest | 摄取 Part 2 维基实体词条与核心物理概念
+- **新建核心人物实体**：创建了李善兰 (`wiki/entities/li_shanlan.md`)、徐寿 (`wiki/entities/xu_shou.md`)、傅兰雅 (`wiki/entities/john_fryer.md`)、伟烈亚力 (`wiki/entities/alexander_wylie.md`) 四位核心人物词条，整理其翻译背景、传统筹算数学对接近代微积分，以及江南制造局翻译馆的译述工作。
+- **新建核心物理概念**：创建了《重学》译著与力学引入 (`wiki/concepts/chong_xue.md`)、格致向物理的演变 (`wiki/concepts/ge_zhi_evolution.md`)、分析力学与变分原理 (`wiki/concepts/analytical_mechanics.md`)、麦克斯韦方程组与场论 (`wiki/concepts/maxwell_equations.md`)、卡诺循环与热效率 (`wiki/concepts/carnot_cycle.md`) 五个核心概念词条，并补充了相应的数学物理公式。
+- **更新索引与链接**：全面更新了 `wiki/index.md` 主索引，将新增的实体和概念建立双向绝对路径链接，并将最后更新日期修正为 2026-06-13。
