@@ -102,3 +102,4 @@
 
 ## [2026-06-12] publish | 发布并同步 Part 1 重构版
 - 将已确认的 `wiki/drafts/part1_v2.md` 草稿同步发布至 `website/docs/part1.md`，去除了草稿标题后缀，保留了完整的 Docusaurus 页面结构。
+- 翻译并同步更新了英文版文档 `website/i18n/en/docusaurus-plugin-content-docs/current/part1.md`，补齐了重构后的所有新章节与 Alert 信息框，并修正了中文与草稿原稿中“牛津大学”被误写为“牛善大学”的错字。
