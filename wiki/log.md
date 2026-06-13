@@ -121,3 +121,7 @@
 ## [2026-06-12] plan | 拟定 Part 2 改写计划
 - 在 `wiki/drafts/part2_refinement_plan.md` 中编写了 Part 2 的改写工作计划。
 - 确立了“Wiki Ingestion First”的工作流规范：优先在维基知识库中补充李善兰、徐寿、傅兰雅等实体词条以及《重学》、电磁场理论、热机极限效率等核心物理学概念，然后再针对 `part2.md` 的网页文本、插图及写作风格进行更新改写。
+
+## [2026-06-12] fix | 修复 Vercel 部署时的 Markdown 图片路径解析错误
+- **图片路径协议修复**：将 Parts 1-6 及其英文翻译版共 12 篇文档中的插画 URL 统一从绝对路径 `/img/partX_illustration.png` 修改为 `pathname:///img/partX_illustration.png` 协议。
+- **构建保障**：以此绕过 Docusaurus MDX 编译期对绝对路径图片的本文件解析断言，解决 Vercel CI 部署管道下的编译中断问题，同时保持运行时静态资源的完全正确加载。

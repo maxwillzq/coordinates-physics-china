@@ -8,7 +8,7 @@ sidebar_position: 6
 
 > *"The most incomprehensible thing about the world is that it is comprehensible."* —— Albert Einstein
 
-![Yin-Yang Taiji and AI Neural Network Constellation Illustration](/img/part6_illustration.png)
+![Yin-Yang Taiji and AI Neural Network Constellation Illustration](pathname:///img/part6_illustration.png)
 
 ## World Axis
 Since 2010, physics has entered a new stage characterized by precision big science and interdisciplinary intersection. The discovery of the God particle (Higgs boson) in 2012 completed the last puzzle of the Standard Model; the detection of gravitational waves in 2015 opened a new era of multi-messenger astronomy. Meanwhile, quantum information science moved from theory to application, becoming a new high ground for major power competition. More revolutionary is that artificial intelligence (AI for Science), as a new research paradigm, is profoundly reshaping physics research methods such as materials design and complex system simulation.

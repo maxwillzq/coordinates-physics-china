@@ -8,7 +8,7 @@ sidebar_position: 3
 
 > *"A university is not defined by large buildings, but by big masters."* —— Mei Yiqi
 
-![Southwest Joint University and Quantum Orbitals Illustration](/img/part3_illustration.png)
+![Southwest Joint University and Quantum Orbitals Illustration](pathname:///img/part3_illustration.png)
 
 ## World Axis
 The first half of the 20th century was the most exciting era in the history of physics. Starting from 1900 when Planck proposed the energy quantum hypothesis, the dark clouds of classical physics triggered a disruptive "Quantum Revolution." Subsequently, Einstein proposed the theory of relativity, completely reshaping the view of space and time; and a large number of physicists such as Bohr, Heisenberg, Schrödinger, and Dirac constructed the magnificent theoretical edifice of quantum mechanics in just two or three decades. Physics moved from macro to micro, and from determinism to probability theory, and the paradigm underwent a fundamental shift. Physics in this period not only changed human cognition of nature but also laid the theoretical foundation for the later information technology and nuclear energy era.

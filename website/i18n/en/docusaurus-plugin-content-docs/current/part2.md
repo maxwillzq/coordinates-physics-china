@@ -8,7 +8,7 @@ sidebar_position: 2
 
 > *"If I have seen further it is by standing on the shoulders of Giants."* —— Isaac Newton
 
-![Western Classical Physics Instruments on Traditional Chinese Desk](/img/part2_illustration.png)
+![Western Classical Physics Instruments on Traditional Chinese Desk](pathname:///img/part2_illustration.png)
 
 ## World Axis
 The 18th and 19th centuries were the golden age of classical physics. Based on Newtonian mechanics, classical mechanics reached its perfect pinnacle and successfully explained the motion of celestial bodies and ground objects. In the 19th century, thermodynamics and electromagnetism were established successively, and the proposal of Maxwell's equations marked the completion of classical electromagnetic theory. These theories not only constructed the grand palace of classical physics but also directly promoted the Industrial Revolution, completely changing human society.

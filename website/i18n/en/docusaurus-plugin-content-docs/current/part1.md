@@ -8,7 +8,7 @@ sidebar_position: 1
 
 > *"The shadow: The light shines on a person like an arrow. The lower part of the person appears high, and the higher part appears low."* —— *Mozi, Jing Xia*
 
-![Mozi's Pinhole Camera Experiment Illustration](/img/part1_illustration.png)
+![Mozi's Pinhole Camera Experiment Illustration](pathname:///img/part1_illustration.png)
 
 ## World Axis
 Before the 17th century, the development of Western physics (or more accurately, natural philosophy) was centered on the system of Aristotle (384 BC – 322 BC). Aristotle's *Physics* constructed a finite, spherical, and Earth-centered universe model. The world below the moon was composed of four elements: water, fire, air, and earth, where motion was the tendency of things to find their natural places; the world above the moon was composed of the perfect "ether," undergoing eternal circular motion.

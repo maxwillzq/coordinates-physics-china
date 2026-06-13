@@ -2,7 +2,7 @@
 
 > *"If I have seen further it is by standing on the shoulders of Giants."* —— Isaac Newton
 
-![西学东渐与经典物理仪器演示图](/img/part2_illustration.png)
+![西学东渐与经典物理仪器演示图](pathname:///img/part2_illustration.png)
 
 ## 世界轴 (World Axis)
 18和19世纪是经典物理学的黄金时代。以牛顿力学为基础，经典力学达到了完美的巅峰，并成功解释了天体运行和地面物体的运动。19世纪，热力学和电磁学相继建立，麦克斯韦方程组的提出标志着经典电磁理论的完成。这些理论不仅构建了经典物理学的宏伟殿堂，也直接推动了工业革命，彻底改变了人类社会。
