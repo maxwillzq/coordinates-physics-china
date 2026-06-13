@@ -9,6 +9,7 @@
 - [李约瑟《中国科学技术史·物理学》解析总结](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/summaries/needham_physics_report.md)
 - [《考工记》总结](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/summaries/kao_gong_ji.md)
 - [《天工开物》总结](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/summaries/tiangong_kaiwu.md)
+- [陈方正《继承与叛逆》总结](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/summaries/chen_fangzheng_inheritance_and_rebellion.md)
 
 ### 实体 (Entities)
 - [墨子](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/entities/mozi.md)
@@ -39,4 +40,4 @@
 - [杨-米尔斯场论](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/concepts/yang_mills_theory.md)
 
 ---
-*最后更新：2026-05-25*
+*最后更新：2026-06-12*
