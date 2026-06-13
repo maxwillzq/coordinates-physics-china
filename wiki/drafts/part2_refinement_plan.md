@@ -4,6 +4,28 @@
 
 ---
 
+## 🎨 结构与风格指导原则 (Structural & Style Principles)
+
+本阶段的改写必须严格遵循 [wiki/drafts/style_template.md](file:///Users/johnqiangzhang/Documents/projects/coordinates-physics-china/wiki/drafts/style_template.md) 所确立的规范，并在 Part 2 的具体写作中落实以下要点：
+
+### 1. 学科对称轴与“时空对撞”大纲设计
+根据指南，我们将重构 Part 2 的结构，使中西物理思想在经典物理殿堂与翻译引入期进行贴身对撞：
+*   **第一章：经典物理的宏伟殿堂**（重在提升物理学学术硬度与公式化描述）
+    *   `#### 第一节 分析力学与变分原理：西方拉格朗日量 $\delta \int L dt = 0$ VS 中国传统筹算代数对微积分的拒斥`
+    *   `#### 第二节 热力学与统计物理：玻尔兹曼熵 $S = k_B \ln \Omega$ 与卡诺循环效率 VS 晚清工业化早期的热机效能代差`
+    *   `#### 第三节 麦克斯韦方程组与场论：真空中统一方程组微分形式 VS 晚清电磁学概念的早期汉译与隔膜`
+*   **第二章：坚船利炮与科学的输入**（重在探讨语言学、科学社会学与范式撞击）
+    *   `#### 第一节 译著的语言之争：李善兰《重学》中经典力学词汇（力、惯性、动量）的转译与语义重构`
+    *   `#### 第二节 口译笔述与翻译馆机制：徐寿、傅兰雅对近代声学与热学词汇的开创性厘定`
+    *   `#### 第三节 视差的顶点：晚清举国补课17世纪牛顿力学 VS 19世纪晚期西方物理“世界轴”跨入相对论与量子前夜的剧烈错位`
+
+### 2. 物理学术语与文本风骨
+*   **文字风格**：秉持宏大理性的历史叙事，使用文白相间的典雅白话。
+*   **术语解构**：深度使用以下现代物理与工程术语穿透历史材料：*变分路径 (variational path)、状态空间 (state space)、热力学极值 (thermodynamic limit)、阻抗不匹配 (impedance mismatch)、语义重构 (semantic reconstruction)、范式视差 (paradigm parallax)*。
+*   **公式安全**：在行内 LaTeX 公式（如 $S = k_B \ln \Omega$ ）及行间公式的外侧，**必须强制添加空格**以保障 Docusaurus Markdown 编译安全。
+
+---
+
 ## 📋 优化目标与范围
 
 1. **第一章：经典物理的宏伟殿堂 (Chapter 1: The Grand Palace of Classical Physics)**
