@@ -24,7 +24,7 @@ From the perspective of the coordinate system of "World Axis - China Point," Chi
 At the end of the 19th century, the edifice of physics seemed to be basically completed. Lord Kelvin declared in his 1900 speech that the beautiful clear sky of physics had only "two clouds" left: one was the null result of the Michelson-Morley experiment, and the other was the "ultraviolet catastrophe" in the blackbody radiation experiment. However, it was exactly these two clouds that ultimately triggered a storm sweeping through the entire physics, completely overturning the dominant position of classical physics.
 
 #### Planck's Shocking Leap: The Birth of Energy Quantum
-On December 14, 1900, at the meeting of the German Physical Society, Max Planck proposed a disruptive hypothesis. To solve the problem of the blackbody radiation formula diverging in the short-wave band, he was forced to make an assumption violating the principle of classical physics that "nature does not make jumps": energy is not continuous when emitted and absorbed but is carried out in minimal, indivisible units. Planck called this unit "Energy Quanta," and its size is proportional to the radiation frequency, i.e., $E = h\nu$, where $h$ was later called the Planck constant.
+On December 14, 1900, at the meeting of the German Physical Society, Max Planck proposed a disruptive hypothesis. To solve the problem of the blackbody radiation formula diverging in the short-wave band, he was forced to make an assumption violating the principle of classical physics that "nature does not make jumps": energy is not continuous when emitted and absorbed but is carried out in minimal, indivisible units. Planck called this unit "Energy Quanta," and its size is proportional to the radiation frequency, i.e., $E = h\nu$ , where $h$ was later called the Planck constant.
 
 This day is recognized as the birthday of quantum mechanics. Planck himself was initially very uneasy about this assumption; he thought it was just a mathematical coincidence and tried to find an explanation within the framework of classical physics. However, the "ghost" he released would soon completely change the face of physics.
 
@@ -36,7 +36,7 @@ In the same year, Einstein also published a paper on special relativity, complet
 #### Bohr's Atomic Model: Stationary States and Transitions
 In 1913, Niels Bohr, a young Danish physicist, introduced the quantum concept into the atomic structure. To solve the problem of the instability of Rutherford's nuclear atom model under classical electromagnetic theory, Bohr proposed three revolutionary hypotheses:
 1. Electrons in an atom can only move on specific, discrete orbits, which are called "stationary states," and electrons do not radiate energy when moving on stationary states.
-2. When electrons transition between different stationary states, they will absorb or emit photons of specific frequencies, and the energy difference satisfies $\Delta E = h\nu$.
+2. When electrons transition between different stationary states, they will absorb or emit photons of specific frequencies, and the energy difference satisfies $\Delta E = h\nu$ .
 3. The angular momentum of electron orbits is also quantized.
 
 The Bohr model successfully explained the laws of the hydrogen atom spectrum, pushing quantum theory to a new height. Bohr also became the "godfather" of quantum theory, and his Copenhagen Institute became a holy place for young physicists all over the world.
@@ -50,7 +50,7 @@ In 1926, Erwin Schrödinger, an Austrian physicist, started from de Broglie's ma
 
 Soon, Schrödinger and Dirac proved that matrix mechanics and wave mechanics are completely equivalent in mathematics. Subsequently, Max Born gave a statistical interpretation of wave functions, pointing out that the square of the wave function represents the probability of a particle appearing somewhere. This interpretation completely broke the determinism of classical mechanics and introduced probability theory into the bottom layer of physics.
 
-In 1927, Heisenberg proposed the famous "Uncertainty Principle," pointing out that the position and momentum of a microscopic particle cannot be measured accurately at the same time, and their product is greater than or equal to the Planck constant divided by $4\pi$. This principle shows that the fuzziness of the microscopic world is not due to the imperfection of measuring instruments but is an essential property of nature.
+In 1927, Heisenberg proposed the famous "Uncertainty Principle," pointing out that the position and momentum of a microscopic particle cannot be measured accurately at the same time, and their product is greater than or equal to the Planck constant divided by $4\pi$ . This principle shows that the fuzziness of the microscopic world is not due to the imperfection of measuring instruments but is an essential property of nature.
 
 #### Copenhagen Interpretation and the Debate of Solvay Conference
 The "Copenhagen School" represented by Bohr and Heisenberg gradually formed a standard interpretation of quantum mechanics, mainly including: Born's probability interpretation, Heisenberg's uncertainty principle, and Bohr's complementarity principle (wave-particle duality).
