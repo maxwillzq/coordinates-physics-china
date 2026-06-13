@@ -8,6 +8,8 @@ sidebar_position: 4
 
 > *"To establish a heart for heaven and earth, to establish a life for the living people, to continue the absolute learning for the past sages, to open peace for all generations."* —— Zhang Zai
 
+![Defense Physics in Desert with Dragon and Camel Caravan Illustration](/img/part4_illustration.png)
+
 ## World Axis
 After World War II, the world entered the Cold War era of bipolar confrontation between the United States and the Soviet Union. The development model of physics was fundamentally reshaped, moving from "Small Science" to "Big Science." Nuclear physics, particle physics, semiconductor physics, and aerospace technology became the core of major power competition. The success of the Manhattan Project established the status of post-war physics as the "first discipline," and physics was deeply bound with national security, geopolitics, and industrial capabilities. The scale of scientific discovery was unprecedentedly increased, but its independence was also reshaped to a large extent by the national will. Physicists moved from the ivory tower to the front line of national strategy, becoming a key force in determining the contrast of major power forces.
 

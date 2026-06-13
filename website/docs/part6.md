@@ -2,7 +2,7 @@
 
 > *"The most incomprehensible thing about the world is that it is comprehensible."* —— Albert Einstein
 
-
+![太极与人工智能宇宙奥秘图](/img/part6_illustration.png)
 
 ## 世界轴 (World Axis)
 2010年以来，物理学进入了以精准大科学和跨学科交叉为特征的新阶段。2012年上帝粒子（希格斯玻色子）的发现补全了标准模型的最后一块拼图；2015年引力波的探测开启了多信使天文学的新纪元。与此同时，量子信息科学从理论走向应用，成为大国竞争的新高地。更具革命性的是，人工智能（AI for Science）作为一种新的科研范式，正在深刻重塑材料设计、复杂系统模拟等物理学研究方法。

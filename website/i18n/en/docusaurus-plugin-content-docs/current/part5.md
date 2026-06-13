@@ -8,6 +8,8 @@ sidebar_position: 5
 
 > *"Science and technology are the primary productive forces."* —— Deng Xiaoping
 
+![Beijing Electron-Positron Collider as Jade Bi Illustration](/img/part5_illustration.png)
+
 ## World Axis
 In the last two decades of the 20th century and the beginning of the 21st century, the world entered an era of rapid development of globalization. The information technology revolution (marked by Moore's Law) profoundly changed the paradigm of scientific research. Physics in this period continued to develop toward two poles: on the one hand, the Standard Model of particle physics was precisely tested in experiments at institutions like the European Organization for Nuclear Research (CERN); on the other hand, condensed matter physics moved toward prosperity, and discoveries such as high-temperature superconductivity and giant magnetoresistance directly gave birth to a new generation of information technology. Big scientific devices became indispensable infrastructure for exploring the unknown world.
 
